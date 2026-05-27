@@ -1,0 +1,485 @@
+shipment_id,shipment_date,origin_country,origin_port_city,destination_port_city,final_distance_city,product_category,product_name,unit,supplier,transport_mode,vessel_type,cargo_weight_ton,calculated_mode_distance_km,outbound_distance_km,warehouse_kwh_allocated,"Emission_Factor_mode
+kgco2e/ton_km","Emission_Factor_outbound
+kgco2e/ton_km","Emission_Factor_warehouse_kwh_allocated
+kgco2e/kwh","target
+total_kgco2e"
+RO-16001,27-12-15,South Korea,Busan,Dammam,Riyadh,Alkalis & Bases,POTASSIUM HYDROXIDE 90% min (FLAKE type,MT,"MIRAE C.M.T.,LTD",Sea,Container Ship,20,15186,400,7.245566,0.00956,0.11,0.714," 3,788.74 "
+MO-16004,02-01-16,China,Shanghai,Dammam,Riyadh + Jeddah,Inorganic Salts,SODIUM SULPHATE ANHYDROUS 99 PCT MIN,MT,"YUE XIU TEXTILE CO.,LTD",Sea,Bulk Carrier,828,14816,1650,299.966452,0.00795,0.11,0.714," 248,023.98 "
+KO-16002,03-01-16,Jebel Ali,Jebel Ali,Dammam,Dammam,Inorganic Salts,Sodium Nitrate HQ free flowing (non-food grade,MT,BASF-FZE,Sea,Container Ship,11,2037,0,3.985062,0.00956,0.11,0.714, 217.06 
+KO-16001,03-01-16,Jebel Ali,Jebel Ali,Dammam,Dammam,Inorganic Salts,Sodium Nitrite ( Technical Grade,MT,BASF-FZE,Sea,Container Ship,11,2037,0,3.985062,0.00956,0.11,0.714, 217.06 
+JO-16002,03-01-16,Jebel Ali,Jebel Ali,Dammam,Jeddah,Inorganic Salts,Sodium Nitrate HQ free flowing (non-food grade,MT,BASF-FZE,Sea,Container Ship,10,2037,1250,3.622783,0.00956,0.11,0.714," 1,572.32 "
+JO-16001,03-01-16,Jebel Ali,Jebel Ali,Dammam,Jeddah,Inorganic Salts,Sodium Nitrite ( Technical Grade,MT,BASF-FZE,Sea,Container Ship,10,2037,1250,3.622783,0.00956,0.11,0.714," 1,572.32 "
+KO-16003,06-01-16,China,Shanghai,Dammam,Dammam,Solvents,MORPHOLINE 99%,MT,NORBRIGHT,Sea,Bulk Carrier,16,14816,0,5.796453,0.00795,0.11,0.714," 1,888.73 "
+DO-16003,06-01-16,Germany,Hamburg,Jebel Ali,Jebel Ali,Surfactants,WILFARET KB10,MT,BRENNTAG EXPORT ,Sea,Container Ship,32.48,14446,0,11.7668,0.00956,0.11,0.714," 4,494.01 "
+DO-16002,06-01-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,EMPIGEN OB,MT,HUNTSMAN,Sea,Container Ship,16,20187,0,5.796453,0.00956,0.11,0.714," 3,091.94 "
+DO-16001,06-01-16,China,China,Karachi,Karachi,Disinfectants & Biocides,SODIUM CHLORITE 25% MIN,MT,NORBRIGHT INDUSTRY CO.LTD,Sea,Container Ship,20,10742,0,7.245566,0.00956,0.11,0.714," 2,059.04 "
+KO-16004,07-01-16,China,Qingdao,Dammam,Dammam,Organic Acids,CITRIC ACID ANHYDROUS BP98 MESH SIZE: 30-100,MT,"WEIFANG ENSIGN INDUSTRY CO., LTD.",Sea,Bulk Carrier,22,15001,0,7.970123,0.00795,0.11,0.714," 2,629.37 "
+JO-16003,07-01-16,China,Qingdao,Dammam,Jeddah,Organic Acids,CITRIC ACID ANHYDROUS BP98 MESH SIZE: 30-100,MT,"WEIFANG ENSIGN INDUSTRY CO., LTD.",Sea,Bulk Carrier,22,15001,1250,7.970123,0.00795,0.11,0.714," 5,654.37 "
+KO-16005,11-01-16,China,Zhenjiang,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,SICHUAN UNION XINLI CO. LTD.-CHINA.  (Winbright international(HK) ltd),Sea,Bulk Carrier,61003.2,14631,0,22100.13702,0.00795,0.11,0.714," 7,111,455.16 "
+DO-16004,12-01-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,ELTESOL SX93,MT,HUNTSMAN,Sea,Container Ship,20,20187,0,7.245566,0.00956,0.11,0.714," 3,864.93 "
+DO-16008,13-01-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,EMPIGEN BAC 50,MT,HUNTSMAN,Sea,Container Ship,18.4,20187,0,6.665921,0.00956,0.11,0.714," 3,555.73 "
+DO-16007,13-01-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,EMPIGEN OB,MT,HUNTSMAN,Sea,Container Ship,16,20187,0,5.796453,0.00956,0.11,0.714," 3,091.94 "
+DO-16006,13-01-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,EMPICOL LX 28/U,MT,HUNTSMAN,Sea,Container Ship,6.6,20187,0,2.391037,0.00956,0.11,0.714," 1,275.43 "
+DO-16005,13-01-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,EMPIGEN BB,MT,HUNTSMAN,Sea,Container Ship,11,20187,0,3.985062,0.00956,0.11,0.714," 2,125.71 "
+DO-16009,20-01-16,India,Cochin,Jebel Ali,Dubai,Metal Oxides & Pigments,TITANIUM DIOXIDE AJANTOX A- ONE,MT,Travancore Titanium Products Limited,Sea,Container Ship,14,2871,35,5.071897,0.00956,0.11,0.714, 441.78 
+RO-16002,21-01-16,Saihat,Saihat,Riyadh,Riyadh,Inorganic Acids,HCl 31%-33%,MT,Al-Kawther,Road,Road Truck,25,430,0,9.056958,0.11,0.11,0.714," 1,188.97 "
+JO-16004,21-01-16,China,Shanghai,Dammam,Jeddah,Inorganic Salts,SODIUM BICARBONATE (FOOD GRADE,MT,CHEMISKY,Sea,Bulk Carrier,54,14816,1250,19.563029,0.00795,0.11,0.714," 13,799.48 "
+RO-16003,22-01-16,Saihat,Saihat,Riyadh,Riyadh,Inorganic Acids,HCl 31%-33%,MT,Al-Kawther,Road,Road Truck,50,430,0,18.113916,0.11,0.11,0.714," 2,377.93 "
+KO-16007,24-01-16,Saihat,Saihat,Dammam,Dammam,Inorganic Acids,HCl33%-35%,MT,Al-Kawther,Road,Road Truck,50,55,0,18.113916,0.11,0.11,0.714, 315.43 
+KO-16008,25-01-16,Jebel Ali,Jebel Ali,Dammam,Dammam,Specialty Chemicals,PROFINASE COMBI (ENZYME,MT,Epygen Labs FZ LLC,Sea,Container Ship,15,2037,0,5.434175,0.00956,0.11,0.714, 295.99 
+KO-16009,26-01-16,Japan,Yokohama,Dammam,Dammam,Disinfectants & Biocides,Calcium Hypochlorite 70Percent Granular (HICHLON,MT ,Mitsubishi Corporation,Sea,Container Ship,27.9,15557,0,10.107565,0.00956,0.11,0.714," 4,156.64 "
+MO-16002,27-01-16,China,Changshu,Dammam,Riyadh + Jeddah,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,"SICHUAN UNION XINLI CO. LTD.-CHINA (Hunan Xinli Chemical Co, Ltd.)",Sea,Bulk Carrier,1500,14631,1650,543.417485,0.00795,0.11,0.714," 447,112.68 "
+DO-16011,31-01-16,China,Shanghai,Jebel Ali,Dubai,Food & Feed Chemicals,XANTHAN GUM 80 MESH,MT,The TNN Development Limited ,Sea,Bulk Carrier,5,12964,35,1.811392,0.00795,0.11,0.714, 535.86 
+DO-16010,31-01-16,China,Shanghai,Jebel Ali,Ajman,Surfactants,SLES 70% 2EO,MT,"YUE XIU TEXTILE CO.,LTD",Sea,Bulk Carrier,38.76,12964,60,14.041908,0.00795,0.11,0.714," 4,260.59 "
+DO-16012,01-02-16,United States,Houston,Jebel Ali,Bahrain,Surfactants,ELTESOL SC40,MT,HUNTSMAN,Sea,Container Ship,18.4,20187,889,6.665921,0.00956,0.01242,0.714," 3,758.89 "
+JO-16005,01-02-16,India,Nhava Sheva,Dammam,Jeddah,Aluminum Compounds,ALUMINUM HYDROXIDE,MT ,HINDALCO INDUSTRIES LIMITED-INDIA,Sea,Container Ship,375,4260,1250,135.854371,0.00956,0.11,0.714," 66,931.60 "
+KO-16010,02-02-16,Germany,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,Puristar R3-11G,MT,BASF-SE,Sea,Container Ship,3,13705,80,1.086835,0.00956,0.11,0.714, 420.24 
+JO-16006,02-02-16,Japan,Yokohama,Dammam,Jeddah,Disinfectants & Biocides,Calcium Hypochlorite 70Percent Granular (HICHLON,MT ,Mitsubishi Corporation,Sea,Container Ship,69.75,15557,1250,25.268913,0.00956,0.11,0.714," 19,982.23 "
+DO-16015,04-02-16,Greece,Piraeus,Abu Dhabi,Abu Dhabi,Metal Oxides & Pigments,ZINC OXIDE 72% FEED GRADE,MT,PIRAIKI GREECE,Sea,Container Ship,5,7593,0,1.811392,0.00956,0.11,0.714, 364.24 
+DO-16014,04-02-16,Turkey,Mersin,Abu Dhabi,Abu Dhabi,Metal Oxides & Pigments,MAGNESIUM OXIDE 50%,MT,Aldeon Kimya Sanayi ve Ticaret Limited Şirketi,Sea,Container Ship,24,6297,0,8.69468,0.00956,0.11,0.714," 1,450.99 "
+DO-16013,04-02-16,Germany,Hamburg,Abu Dhabi,Abu Dhabi,Inorganic Salts,POTASSIUM CHLORIDE,MT,KALI,Sea,Container Ship,24,14260,0,8.69468,0.00956,0.11,0.714," 3,278.02 "
+RO-16005,04-02-16,United States,Houston,Dammam,Riyadh,Surfactants,EMPIPEARL XA200/X,MT,HUNTSMAN,Sea,Container Ship,32,19446,400,11.592906,0.00956,0.11,0.714," 7,365.20 "
+RO-16004,04-02-16,Japan,Yokohama,Dammam,Riyadh,Disinfectants & Biocides,Calcium Hypochlorite 70Percent Granular (HICHLON,MT ,Mitsubishi Corporation,Sea,Container Ship,41.85,15557,400,15.161348,0.00956,0.11,0.714," 8,076.36 "
+KO-16011,09-02-16,Jubail,Jubail,Dammam,Dammam,Alkalis & Bases,CAUSTIC SODA PRILLS,MT,JANA,Road,Road Truck,25,80,0,9.056958,0.11,0.11,0.714, 226.47 
+DO-16016,10-02-16,Georgia,Poti,Abu Dhabi,Abu Dhabi,Metal Oxides & Pigments,MANGANESE OXIDE 60-62%,MT,Mn CHEMICAL ,Sea,Container Ship,10,8334,0,3.622783,0.00956,0.11,0.714, 799.32 
+JO-16007,10-02-16,France,Marseille,Dammam,Jeddah,Disinfectants & Biocides,HYDROGENE PEROXIDE 35% (VALSTERANE 35 AL3,MT ,ARKEMA ,Sea,Container Ship,87.75,10742,1250,31.789923,0.00956,0.11,0.714," 21,099.68 "
+JO-16008,11-02-16,China,Qingdao,Dammam,Jeddah,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-75,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,72,15001,1250,26.084039,0.00795,0.11,0.714," 18,505.20 "
+RO-16007,14-02-16,India,Nhava Sheva,Dammam,Riyadh,Inorganic Salts,AMMONIUM NITRATE UNCOATED PRILLED,MT ,"DEEPAK FERTILISERS AND PETROCHEMICALS CORPORATION LTD., INDIA",Sea,Container Ship,40,4260,400,14.491133,0.00956,0.11,0.714," 3,399.37 "
+JO-16009,14-02-16,India,Nhava Sheva,Dammam,Jeddah,Metal Oxides & Pigments,RED OXIDE,MT ,Selective Minerals & Color Industries (P) Ltd.-INDIA,Sea,Container Ship,26,4260,1250,9.419236,0.00956,0.11,0.714," 4,640.59 "
+KO-16013,15-02-16,India,Nhava Sheva,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,IPTC INDIA,Sea,Container Ship,1080,4260,0,391.260589,0.00956,0.11,0.714," 44,263.01 "
+KO-16012,15-02-16,France,Marseille,Dammam,Dammam,Disinfectants & Biocides,HYDROGENE PEROXIDE 35% (VALSTERANE 35 AL3,MT ,ARKEMA ,Sea,Container Ship,35.1,10742,0,12.715969,0.00956,0.11,0.714," 3,613.62 "
+JO-16010,15-02-16,Jubail,Jubail,Dammam,Jeddah,Alkalis & Bases,AMMONIA 25%,MT ,NAWAH CHEMICALS FACTORY CO,Road,Road Truck,10,80,1250,3.622783,0.11,0.11,0.714," 1,465.59 "
+KO-16017,16-02-16,China,Qingdao,Dammam,Dammam,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-14,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,120,15001,0,43.473399,0.00795,0.11,0.714," 14,341.99 "
+KO-16017,16-02-16,China,Qingdao,Dammam,Dammam,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-75,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,120,15001,0,43.473399,0.00795,0.11,0.714," 14,341.99 "
+KO-16016,16-02-16,China,Shanghai,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,SICHUAN MURPHY TRADE CO LTD,Sea,Bulk Carrier,4999.2,14816,0,1811.101795,0.00795,0.11,0.714," 590,134.90 "
+KO-16015,16-02-16,China,Shanghai,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,SICHUAN MURPHY TRADE CO LTD,Sea,Bulk Carrier,4999.2,14816,0,1811.101795,0.00795,0.11,0.714," 590,134.90 "
+JO-16011,16-02-16,Jebel Ali,Jebel Ali,Dammam,Jeddah,Solvents,Methoxy Propanol,MT,PETROCHEM ,Sea,Container Ship,15.2,2037,1250,5.506631,0.00956,0.11,0.714," 2,389.93 "
+DO-16017,21-02-16,China,Qingdao,Jebel Ali,Jebel Ali,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-14,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,48,13149,0,17.38936,0.00795,0.11,0.714," 5,030.07 "
+JO-16013,21-02-16,China,Shanghai,Dammam,Jeddah,Inorganic Salts,AMMONIUM BICARBONATE (FOOD GRADE,MT ,NORBRIGHT,Sea,Bulk Carrier,290,14816,1250,105.060714,0.00795,0.11,0.714," 74,108.30 "
+JO-16012,21-02-16,China,Qingdao,Dammam,Jeddah,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-75,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,98,15001,1250,35.503276,0.00795,0.11,0.714," 25,187.63 "
+KO-16019,22-02-16,Dammam,Dammam,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,HISHAM ATEEQ AL DOSSARY,Road,Road Truck,200,0,0,72.455665,0.11,0.11,0.714, 51.73 
+KO-16018,22-02-16,Turkey,Mersin,Dammam,Dammam,Specialty Chemicals,ZINC STEARATE ZN-55 (STANDARD GRADE,MT ,Tepe Kimya San. ve Tic.Ltd.Şti.,Sea,Container Ship,20,5556,0,7.245566,0.00956,0.11,0.714," 1,067.48 "
+KO-16014,22-02-16,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,SORBEAD-R,MT,BASF-SE,Sea,Container Ship,18,19446,80,6.52101,0.00956,0.11,0.714," 3,509.32 "
+RO-16008,22-02-16,China,Qingdao,Dammam,Riyadh,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-14,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,120,15001,400,43.473399,0.00795,0.11,0.714," 19,621.99 "
+RO-16008,22-02-16,China,Qingdao,Dammam,Riyadh,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-75,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,72,15001,400,26.084039,0.00795,0.11,0.714," 11,773.20 "
+KO-16020,23-02-16,United States,Houston,Dammam,Dammam,Catalysts,T-162 1/2 ’’,MT,BASF-SE,Sea,Container Ship,5,19446,0,1.811392,0.00956,0.11,0.714, 930.81 
+KO-16020,23-02-16,United States,Houston,Dammam,Dammam,Catalysts,T-162 1/4 ‘’,MT,BASF-SE,Sea,Container Ship,5,19446,0,1.811392,0.00956,0.11,0.714, 930.81 
+KO-16020,23-02-16,United States,Houston,Dammam,Dammam,Catalysts,T-162 3/16’’,MT,BASF-SE,Sea,Container Ship,2,19446,0,0.724557,0.00956,0.11,0.714, 372.32 
+KO-16020,23-02-16,United States,Houston,Dammam,Dammam,Catalysts,T-162 1/8”,MT,BASF-SE,Sea,Container Ship,1,19446,0,0.362278,0.00956,0.11,0.714, 186.16 
+DO-16019,23-02-16,United States,Houston,Abu Dhabi,Abu Dhabi,Food & Feed Chemicals,SELENIUM YEAST 2000,MT,"Agri Products, Inc.    ",Sea,Container Ship,15,20002,0,5.434175,0.00956,0.11,0.714," 2,872.17 "
+DO-16019,23-02-16,United States,Houston,Abu Dhabi,Abu Dhabi,Food & Feed Chemicals,COPPER TRIBASIC CHLORIDE,MT,"Agri Products, Inc.    ",Sea,Container Ship,2,20002,0,0.724557,0.00956,0.11,0.714, 382.96 
+DO-16018,23-02-16,United States,New York,Abu Dhabi,Abu Dhabi,Food & Feed Chemicals,MAGNESIUM PROTEINATE 10%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,10,19631,0,3.622783,0.00956,0.11,0.714," 1,879.31 "
+DO-16020,24-02-16,United States,New York,Abu Dhabi,Abu Dhabi,Food & Feed Chemicals,CHOLINE CHLORIDE 70%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,24.75,19631,0,8.966389,0.00956,0.11,0.714," 4,651.29 "
+KO-16021,28-02-16,China,Shanghai,Dammam,Dammam,Inorganic Salts,SODIUM BICARBONATE (FOOD GRADE,MT,CHEMISKY,Sea,Bulk Carrier,486,14816,0,176.067265,0.00795,0.11,0.714," 57,370.29 "
+JO-16014,28-02-16,China,Shanghai,Dammam,Jeddah,Inorganic Salts,SODIUM BICARBONATE (FOOD GRADE,MT,CHEMISKY,Sea,Bulk Carrier,189,14816,1250,68.470603,0.00795,0.11,0.714," 48,298.17 "
+KO-16022,01-03-16,Germany,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,PURISTAR R3-16 T5X3,MT,BASF-SE,Sea,Container Ship,48.02,13705,80,17.396605,0.00956,0.11,0.714," 6,726.57 "
+JO-16015,01-03-16,India,Nhava Sheva,Dammam,Jeddah,Aluminum Compounds,ALUMINUM HYDROXIDE,MT ,HINDALCO INDUSTRIES LIMITED-INDIA,Sea,Container Ship,660,4260,1250,239.103693,0.00956,0.11,0.714," 117,799.62 "
+KO-16025,08-03-16,Germany,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,PURISTAR R3-17 RED,MT,BASF-SE,Sea,Container Ship,12,13705,80,4.34734,0.00956,0.11,0.714," 1,680.94 "
+KO-16027,13-03-16,Dammam,Dammam,Dammam,Dammam,Disinfectants & Biocides,HAND SANITIZER,CASE,JOVAE FACTORY FOR DETERGENTS,Road,Road Truck,100,0,0,36.227832,0.11,0.11,0.714, 25.87 
+JO-16017,13-03-16,United States,Houston,Jeddah,Jeddah,Surfactants,EMPICOL AL 70,MT,HUNTSMAN,Sea,Container Ship,17.6,17224,0,6.376098,0.00956,0.11,0.714," 2,902.59 "
+JO-16017,13-03-16,United States,Houston,Jeddah,Jeddah,Surfactants,EMPILAN EGDS,MT,HUNTSMAN,Sea,Container Ship,9.6,17224,0,3.477872,0.00956,0.11,0.714," 1,583.23 "
+JO-16016,13-03-16,Netherlands,Rotterdam,Jeddah,Jeddah,Inorganic Salts,SUPRASEL FINE SALT,MT ,AKZONOBEL,Sea,Container Ship,73.5,12594,0,26.627457,0.00956,0.11,0.714," 8,868.31 "
+KO-16026,13-03-16,United Kingdom,Felixstowe,Dammam,Jubail,Equipment & Consumables,"Floating Mesh Screens-No.#12 In 304l,Wire 0.56mm Vessel Diameter 2000mm- C3 Drier",PC,Distillation Equipment Company Ltd,Sea,Container Ship,3,13334,80,1.086835,0.00956,0.11,0.714, 409.60 
+KO-16023,13-03-16,Netherlands,Rotterdam,Jeddah,Dammam,Inorganic Salts,SUPRASEL FINE SALT,MT ,AKZONOBEL,Sea,Container Ship,24.5,12594,1250,8.875819,0.00956,0.11,0.714," 6,324.85 "
+DO-16026,16-03-16,Abu Dhabi,Abu Dhabi,Jebel Ali,Dubai,Inorganic Salts,SODIUM CHLORIDE,MT,"BLUE LINE CHEMICALS FACTORY LLC., Abu Dhabi, UAE",Road,Road Truck,150,140,35,54.341749,0.11,0.11,0.714," 2,926.30 "
+RO-16009,16-03-16,Netherlands,Rotterdam,Dammam,Riyadh,Inorganic Acids,NITRIC ACID 63%,MT,BREDOX B.V.,Sea,Container Ship,25.024,13520,400,9.065653,0.00956,0.11,0.714," 4,341.91 "
+DO-16025,17-03-16,China,Guangzhou,Jebel Ali,Jebel Ali,Food & Feed Chemicals,DEXTROSE MONOHYDRATE,MT,QINGYUAN FOODSTUFF CO LTD,Sea,Bulk Carrier,582,12964,0,210.845984,0.00795,0.11,0.714," 60,133.68 "
+DO-16023,17-03-16,China,Shanghai,Jebel Ali,Jebel Ali,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,SICHUAN MURPHY TRADE CO LTD,Sea,Bulk Carrier,1186,12964,0,429.662092,0.00795,0.11,0.714," 122,540.45 "
+DO-16021,17-03-16,Germany,Hamburg,Jebel Ali,Jebel Ali,Surfactants,WILFARET KB10,MT,BRENNTAG EXPORT ,Sea,Container Ship,32.48,14446,0,11.7668,0.00956,0.11,0.714," 4,494.01 "
+DO-16027,17-03-16,Kuwait,Shuwaikh,Jebel Ali,Dubai,Food & Feed Chemicals,MONOCALCIUM PHOSPHATE GREENPHOS – 22.7 %,MT,KUBBAR INTERNATIONAL CO.,Sea,Container Ship,400,1667,35,144.911329,0.00956,0.11,0.714," 8,018.07 "
+DO-16022,17-03-16,Turkey,Mersin,Jebel Ali,Abu Dhabi,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EIL FIL TRADING ,Sea,Container Ship,189,6667,180,68.470603,0.00956,0.11,0.714," 15,837.29 "
+RO-16010,23-03-16,China,Shanghai,Dammam,Riyadh,Inorganic Salts,SODIUM BICARBONATE (FOOD GRADE,MT,CHEMISKY,Sea,Bulk Carrier,324,14816,400,117.378177,0.00795,0.11,0.714," 52,502.86 "
+JO-16018,28-03-16,Saihat,Saihat,Jeddah,Jeddah,Inorganic Acids,HCl 31%-33%,MT,AL-KAWTHEE STAR CHEMICAL EST. SAIHAT. ,Road,Road Truck,50,1270,0,18.113916,0.11,0.11,0.714," 6,997.93 "
+JO-16018,28-03-16,Saihat,Saihat,Jeddah,Jeddah,Disinfectants & Biocides,SODIUM HYPOCHLORITE 12%,MT,AL-KAWTHEE STAR CHEMICAL EST. SAIHAT. ,Road,Road Truck,25,1270,0,9.056958,0.11,0.11,0.714," 3,498.97 "
+KO-16028,30-03-16,Netherlands,Rotterdam,Dammam,Dammam,Inorganic Salts,BROXO 6-15 PROFESSIONAL SALT,MT,AKZONOBEL,Sea,Container Ship,122.5,13520,0,44.379095,0.00956,0.11,0.714," 15,864.96 "
+JO-16022,30-03-16,Netherlands,Rotterdam,Jeddah,Jeddah,Inorganic Salts,BROXO 6-15 PROFESSIONAL SALT,MT,AKZONOBEL,Sea,Container Ship,122.5,12594,0,44.379095,0.00956,0.11,0.714," 14,780.52 "
+JO-16019,30-03-16,Jubail,Jubail,Jeddah,Jeddah,Alkalis & Bases,CAUSTIC SODA PRILLS,MT,JANA ,Road,Road Truck,25,1300,0,9.056958,0.11,0.11,0.714," 3,581.47 "
+JO-16021,30-03-16,India,Nhava Sheva,Dammam,Jeddah,Polymers & Resins,DI BUTYL PHTHALATE DBP (M,MT,KLJ GROUP OF INDUSTRIES,Sea,Container Ship,18.8,4260,1250,6.810832,0.00956,0.11,0.714," 3,355.50 "
+JO-16020,30-03-16,South Africa,Durban,Dammam,Jeddah,Solvents,ETHANOL 99.9/DB,MT,SASOL,Sea,Container Ship,105.6,10742,1250,38.256591,0.00956,0.11,0.714," 25,391.75 "
+RO-16011,31-03-16,United States,Houston,Dammam,Riyadh,Surfactants,EMPIPEARL XA200/X,MT,HUNTSMAN,Sea,Container Ship,32,19446,400,11.592906,0.00956,0.11,0.714," 7,365.20 "
+JO-16023,03-04-16,Germany,Hamburg,Jeddah,Jeddah,Inorganic Salts,BUDALNa 324 Trisodium Phosphate Anhydrous,MT,BUDENHEIM ,Sea,Container Ship,20,12779,0,7.245566,0.00956,0.11,0.714," 2,448.52 "
+KO-16030,03-04-16,Germany,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,PURISTAR R3-12 T5X3,MT,BASF-SE,Sea,Container Ship,0.98,13705,80,0.355033,0.00956,0.11,0.714, 137.28 
+KO-16029,03-04-16,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,SELEXSORB ST 7X14,MT,BASF-SE,Sea,Container Ship,17.4,19446,80,6.303643,0.00956,0.11,0.714," 3,392.35 "
+KO-16029,03-04-16,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,SELEXSORB HG 4X6 (4mm,MT,BASF-SE,Sea,Container Ship,4.5,19446,80,1.630252,0.00956,0.11,0.714, 877.33 
+RO-16012,03-04-16,Netherlands,Rotterdam,Dammam,Riyadh,Inorganic Salts,BROXO 6-15 PROFESSIONAL SALT,MT,AKZONOBEL,Sea,Container Ship,122.5,13520,400,44.379095,0.00956,0.11,0.714," 21,254.96 "
+JO-16024,10-04-16,Germany,Hamburg,Jeddah,Jeddah,Inorganic Salts,SODIUM TRIPOLYPHOSPHATE ANHYDROUS,MT,BUDENHEIM ,Sea,Container Ship,20,12779,0,7.245566,0.00956,0.11,0.714," 2,448.52 "
+DO-16028,10-04-16,China,Qingdao,Jebel Ali,Jebel Ali,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-14,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,72,13149,0,26.084039,0.00795,0.11,0.714," 7,545.11 "
+RO-16014,10-04-16,China,Shanghai,Dammam,Riyadh,Inorganic Salts,AMMONIUM CHLORIDE TECH. GRADE 99.5%MIN.,MT,CHEMISKY,Sea,Bulk Carrier,21,14816,400,7.607845,0.00795,0.11,0.714," 3,402.96 "
+RO-16013,10-04-16,Turkey,Mersin,Dammam,Riyadh,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,24,5556,400,8.69468,0.00956,0.11,0.714," 2,336.98 "
+KO-16031,11-04-16,China,Shanghai,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,SICHUAN MURPHY TRADE CO LTD,Sea,Bulk Carrier,3000,14816,0,1086.83497,0.00795,0.11,0.714," 354,137.60 "
+DO-16029,11-04-16,China,Shanghai,Jebel Ali,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,SICHUAN MURPHY TRADE CO LTD,Sea,Bulk Carrier,3000,12964,1000,1086.83497,0.00795,0.01242,0.714," 347,227.40 "
+JO-16025,12-04-16,France,Marseille,Dammam,Jeddah,Disinfectants & Biocides,HYDROGENE PEROXIDE 35% (VALSTERANE 35 AL4,MT ,ARKEMA ,Sea,Container Ship,72,10742,1250,26.084039,0.00956,0.11,0.714," 17,312.56 "
+RO-16015,14-04-16,United States,Houston,Dammam,Riyadh,Solvents,PERCHLOROETHYLENE,MT,DOW,Sea,Container Ship,19.8,19446,400,7.173111,0.00956,0.11,0.714," 4,557.22 "
+JO-16027,14-04-16,United States,Houston,Dammam,Jeddah,Solvents,METHYLENE CHLORIDE (MECTHANE GRADE),MT,OLIN,Sea,Container Ship,39.216,19446,1250,14.207107,0.00956,0.11,0.714," 12,692.75 "
+JO-16026,14-04-16,China,Shanghai,Dammam,Jeddah,Inorganic Salts,BARIUM CHLORIDE DIHYDRATE,MT,NORBRIGHT ,Sea,Bulk Carrier,50,14816,1250,18.113916,0.00795,0.11,0.714," 12,777.29 "
+RO-16016,17-04-16,France,Marseille,Jeddah,Riyadh,Polymers & Resins,CHEMIGUM P83,MT,OMNOVA SOLUTION-FRANCE,Sea,Container Ship,20,9445,950,7.245566,0.00956,0.11,0.714," 3,901.06 "
+JO-16028,18-04-16,India,Nhava Sheva,Dammam,Jeddah,Aluminum Compounds,ALUMINUM HYDROXIDE,MT ,HINDALCO INDUSTRIES LIMITED-INDIA,Sea,Container Ship,660,4260,1250,239.103693,0.00956,0.11,0.714," 117,799.62 "
+DO-16030,20-04-16,Belgium,Colombo,Jebel Ali,Karachi,Adsorbents & Desiccants,ACTIVATED CARBON (SGL 8X30,MT,CHEMVIRON CARBON,Sea,Container Ship,10,3889,1611,3.622783,0.00956,0.01242,0.714, 574.46 
+KO-16032,21-04-16,China,Qingdao,Dammam,Dammam,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-14,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,120,15001,0,43.473399,0.00795,0.11,0.714," 14,341.99 "
+KO-16032,21-04-16,China,Qingdao,Dammam,Dammam,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-75,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,120,15001,0,43.473399,0.00795,0.11,0.714," 14,341.99 "
+DO-16031,21-04-16,Germany,Hamburg,Jebel Ali,Jebel Ali,Surfactants,WILFARET KB10,MT,BRENNTAG EXPORT ,Sea,Container Ship,16.24,14446,0,5.8834,0.00956,0.11,0.714," 2,247.01 "
+RO-16018,21-04-16,China,Qingdao,Dammam,Riyadh,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-14,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,120,15001,400,43.473399,0.00795,0.11,0.714," 19,621.99 "
+RO-16018,21-04-16,China,Qingdao,Dammam,Riyadh,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-75,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,120,15001,400,43.473399,0.00795,0.11,0.714," 19,621.99 "
+RO-16017,21-04-16,Turkey,Mersin,Dammam,Riyadh,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,216,5556,400,78.252118,0.00956,0.11,0.714," 21,032.79 "
+JO-16030,21-04-16,China,Qingdao,Dammam,Jeddah,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-75,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,120,15001,1250,43.473399,0.00795,0.11,0.714," 30,841.99 "
+JO-16029,21-04-16,Turkey,Mersin,Dammam,Jeddah,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,144,5556,1250,52.168079,0.00956,0.11,0.714," 27,485.86 "
+DO-16032,24-04-16,Germany,Hamburg,Abu Dhabi,Abu Dhabi,Inorganic Salts,POTASSIUM CHLORIDE,MT,KALI,Sea,Container Ship,24,14260,0,8.69468,0.00956,0.11,0.714," 3,278.02 "
+DO-16033,02-05-16,United States,Houston,Dubai,Jebel Ali,Surfactants,ELTESOL SX93,MT,HUNTSMAN,Sea,Container Ship,0.5,20187,35,0.181139,0.00956,0.11,0.714, 98.55 
+DO-16041,05-05-16,China,China,Jebel Ali,Dubai,Food & Feed Chemicals,XANTHAN GUM 80 MESH,MT,TNN China,Sea,Bulk Carrier,1.1,12964,35,0.398506,0.00795,0.11,0.714, 117.89 
+JO-16031,05-05-16,China,Shanghai,Dammam,Jeddah,Inorganic Salts,BARIUM CHLORIDE DIHYDRATE,MT,NORBRIGHT ,Sea,Bulk Carrier,100,14816,1250,36.227832,0.00795,0.11,0.714," 25,554.59 "
+KO-16034,10-05-16,United States,Houston,Dammam,Dammam,Catalysts,T-162 1/4 ‘’,MT,BASF-SE,Sea,Container Ship,10,19446,0,3.622783,0.00956,0.11,0.714," 1,861.62 "
+KO-16034,10-05-16,United States,Houston,Dammam,Dammam,Catalysts,T-162 3/4 ‘’,MT,BASF-SE,Sea,Container Ship,10,19446,0,3.622783,0.00956,0.11,0.714," 1,861.62 "
+KO-16034,10-05-16,United States,Houston,Dammam,Dammam,Catalysts,T-162 1/2 ’’,MT,BASF-SE,Sea,Container Ship,5,19446,0,1.811392,0.00956,0.11,0.714, 930.81 
+KO-16034,10-05-16,United States,Houston,Dammam,Dammam,Catalysts,T-162 3/16’’,MT,BASF-SE,Sea,Container Ship,5,19446,0,1.811392,0.00956,0.11,0.714, 930.81 
+KO-16034,10-05-16,United States,Houston,Dammam,Dammam,Catalysts,T-162 1/8”,MT,BASF-SE,Sea,Container Ship,2,19446,0,0.724557,0.00956,0.11,0.714, 372.32 
+KO-16033,10-05-16,United States,Houston,Dammam,Dammam,Adsorbents & Desiccants,F-24X CLAY,MT,BASF-SE,Sea,Container Ship,9,19446,0,3.260505,0.00956,0.11,0.714," 1,675.46 "
+DO-16034,10-05-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,ELTESOL SC40,MT,HUNTSMAN,Sea,Container Ship,10.12,20187,0,3.666257,0.00956,0.11,0.714," 1,955.65 "
+DO-16034,10-05-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,EMPILAN 2502,MT,HUNTSMAN,Sea,Container Ship,4,20187,0,1.449113,0.00956,0.11,0.714, 772.99 
+DO-16034,10-05-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,EMPIPEARL XA400/X,MT,HUNTSMAN,Sea,Container Ship,3.2,20187,0,1.159291,0.00956,0.11,0.714, 618.39 
+KO-16033,10-05-16,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,"SELEXSORB SI 1/8""",MT,BASF-SE,Sea,Container Ship,0.90719,19446,80,0.328655,0.00956,0.11,0.714, 176.87 
+RO-16019,11-05-16,Saihat,Saihat,Riyadh,Riyadh,Inorganic Acids,HCl 31%-33%,MT,Al-Kawther,Road,Road Truck,25,430,0,9.056958,0.11,0.11,0.714," 1,188.97 "
+JO-16032,11-05-16,Jubail,Jubail,Jeddah,Jeddah,Alkalis & Bases,CAUSTIC SODA PRILLS,MT,JANA ,Road,Road Truck,75,1300,0,27.170874,0.11,0.11,0.714," 10,744.40 "
+DO-16035,12-05-16,Germany,Germany,Jebel Ali,Karachi,Inorganic Salts,TRISODIUM PHOSPHATE,MT,Budenheim,Sea,Container Ship,7,14446,1611,2.535948,0.00956,0.01242,0.714," 1,108.60 "
+JO-16033,15-05-16,United States,Houston,Jeddah,Jeddah,Solvents,MONOPROPYLENE GLYCOL USP/EP,MT,DOW,Sea,Container Ship,34.4,17224,0,12.462374,0.00956,0.11,0.714," 5,673.25 "
+DO-16036,17-05-16,Pakistan,Karachi,Jebel Ali,Abu Dhabi,Metal Oxides & Pigments,FLUORESCENT BRIGHTENING AGENT,MT,DESCON CHEMICALS ,Sea,Container Ship,10,1611,180,3.622783,0.00956,0.11,0.714, 354.60 
+DO-16038,18-05-16,China,Shanghai,Jebel Ali,Jebel Ali,Food & Feed Chemicals,ASCORBIC ACID,MT, THE TNN DEVELOPMENT LIMITED ,Sea,Bulk Carrier,12,12964,0,4.34734,0.00795,0.11,0.714," 1,239.87 "
+DO-16037,21-05-16,China,Shanghai,Jebel Ali,Jebel Ali,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,SICHUAN MURPHY TRADE CO LTD,Sea,Bulk Carrier,1200,12964,0,434.733988,0.00795,0.11,0.714," 123,986.96 "
+DO-16039,22-05-16,France,France,Dammam,Jebel Ali,Polymers & Resins,PLIOLITE AC 80,MT,OMNOVA SOLUTION-FRANCE,Sea,Container Ship,8,12223,1000,2.898227,0.00956,0.01242,0.714," 1,036.24 "
+DO-16039,22-05-16,France,France,Dammam,Jebel Ali,Polymers & Resins,PLIOLITE AC 5G,MT,OMNOVA SOLUTION-FRANCE,Sea,Container Ship,2,12223,1000,0.724557,0.00956,0.01242,0.714, 259.06 
+KO-16036,24-05-16,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,Selexsorb CD 7X14 -----40 MT @ USD 6172/MT (Partial shipments in 2017).,MT,BASF-SE,Sea,Container Ship,40.279,19446,80,14.592209,0.00956,0.11,0.714," 7,852.89 "
+KO-16035,24-05-16,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,Selexsorb ST,MT,BASF-SE,Sea,Container Ship,178,19446,80,64.485542,0.00956,0.11,0.714," 34,703.31 "
+JO-16035,25-05-16,India,Nhava Sheva,Dammam,Jeddah,Aluminum Compounds,ALUMINUM HYDROXIDE,MT ,HINDALCO INDUSTRIES LIMITED-INDIA,Sea,Container Ship,990,4260,1250,358.65554,0.00956,0.11,0.714," 176,699.42 "
+DO-16040,29-05-16,Greece,Piraeus,Abu Dhabi,Abu Dhabi,Metal Oxides & Pigments,ZINC OXIDE 72% FEED GRADE,MT,PIRAIKI GREECE,Sea,Container Ship,25,7593,0,9.056958,0.00956,0.11,0.714," 1,821.19 "
+JO-16036,31-05-16,United States,Houston,Jeddah,Jeddah,Surfactants,EMPIGEN BS/FA,MT ,HUNTSMAN,Sea,Container Ship,12.32,17224,0,4.463269,0.00956,0.11,0.714," 2,031.82 "
+JO-16036,31-05-16,United States,Houston,Jeddah,Jeddah,Surfactants,EMPILAN 2502,MT ,HUNTSMAN,Sea,Container Ship,4.8,17224,0,1.738936,0.00956,0.11,0.714, 791.62 
+JO-16037,05-06-16,India,Nhava Sheva,Dammam,Jeddah,Metal Oxides & Pigments,RED OXIDE,MT ,Selective Minerals & Color Industries (P) Ltd.-INDIA,Sea,Container Ship,52,4260,1250,18.838473,0.00956,0.11,0.714," 9,281.18 "
+DO-16043,06-06-16,Georgia,Poti,Abu Dhabi,Abu Dhabi,Metal Oxides & Pigments,MANGANESE OXIDE 60-62%,MT,Mn-CHEMICAL ,Sea,Container Ship,25,8334,0,9.056958,0.00956,0.11,0.714," 1,998.29 "
+DO-16045,08-06-16,United States,Houston,Dammam,Jebel Ali,Adsorbents & Desiccants,"F-200 1/8""",MT,BASF-SE,Sea,Container Ship,40.824,19446,1000,14.78965,0.00956,0.01242,0.714," 8,106.93 "
+DO-16049-B,12-06-16,United States,New York,Abu Dhabi,Abu Dhabi,Food & Feed Chemicals,CHOLINE CHLORIDE 70%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,24.75,19631,0,8.966389,0.00956,0.11,0.714," 4,651.29 "
+DO-16049-A,12-06-16,United States,New York,Abu Dhabi,Abu Dhabi,Food & Feed Chemicals,CHOLINE CHLORIDE 70%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,24.75,19631,0,8.966389,0.00956,0.11,0.714," 4,651.29 "
+DO-16048,12-06-16,United States,New York,Abu Dhabi,Abu Dhabi,Food & Feed Chemicals,MANGANESE PROTEINATE 15%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,18,19631,0,6.52101,0.00956,0.11,0.714," 3,382.76 "
+DO-16048,12-06-16,United States,New York,Abu Dhabi,Abu Dhabi,Food & Feed Chemicals,IRON PROTEINATE 15%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,1,19631,0,0.362278,0.00956,0.11,0.714, 187.93 
+DO-16047,12-06-16,United States,New York,Abu Dhabi,Abu Dhabi,Food & Feed Chemicals,MAGNESIUM PROTEINATE 10%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,10,19631,0,3.622783,0.00956,0.11,0.714," 1,879.31 "
+DO-16047,12-06-16,United States,New York,Abu Dhabi,Abu Dhabi,Food & Feed Chemicals,ZINC PROTEINATE 15%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,6,19631,0,2.17367,0.00956,0.11,0.714," 1,127.59 "
+DO-16047,12-06-16,United States,New York,Abu Dhabi,Abu Dhabi,Food & Feed Chemicals,COPPER PROTEINATE 15%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,3,19631,0,1.086835,0.00956,0.11,0.714, 563.79 
+DO-16042-B,12-06-16,Germany,Hamburg,Abu Dhabi,Abu Dhabi,Inorganic Salts,POTASSIUM CHLORIDE,MT,KALI,Sea,Container Ship,24,14260,0,8.69468,0.00956,0.11,0.714," 3,278.02 "
+DO-16042-A,12-06-16,Germany,Hamburg,Abu Dhabi,Abu Dhabi,Inorganic Salts,POTASSIUM CHLORIDE,MT,KALI,Sea,Container Ship,48,14260,0,17.38936,0.00956,0.11,0.714," 6,556.04 "
+DO-16046,12-06-16,United States,Houston,Jebel Ali,Bahrain,Surfactants,ELTESOL SC40,MT,HUNTSMAN,Sea,Container Ship,18.4,20187,889,6.665921,0.00956,0.01242,0.714," 3,758.89 "
+KO-16037,13-06-16,France,Marseille,Dammam,Jubail,Solvents,DIMETHYL DISULPHIDE EVOLUTION (DMDS) E2,MT ,ARKEMA,Sea,Container Ship,50,10742,80,18.113916,0.00956,0.11,0.714," 5,587.61 "
+DO-16052,14-06-16,Turkey,Mersin,Abu Dhabi,Abu Dhabi,Metal Oxides & Pigments,MAGNESIUM OXIDE 50%,MT,Aldeon Kimya Sanayi ve Ticaret Limited Şirketi,Sea,Container Ship,24,6297,0,8.69468,0.00956,0.11,0.714," 1,450.99 "
+DO-16051,14-06-16,Turkey,Mersin,Jebel Ali,Abu Dhabi,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EIL FIL TRADING ,Sea,Container Ship,105,6667,180,38.039224,0.00956,0.11,0.714," 8,798.49 "
+DO-16050,14-06-16,United States,Houston,Dammam,Dubai,Catalysts,T-162,MT,BASF-SE,Sea,Container Ship,35,19446,950,12.679741,0.00956,0.01242,0.714," 6,928.65 "
+RO-16020,20-06-16,France,Marseille,Jeddah,Riyadh,Polymers & Resins,CHEMIGUM P83,MT,OMNOVA SOLUTION-FRANCE,Sea,Container Ship,10,9445,950,3.622783,0.00956,0.11,0.714," 1,950.53 "
+RO-16021,21-06-16,Jubail,Jubail,Riyadh,Riyadh,Inorganic Acids,HCl 31%-33%,MT,NAWAH CHEMICALS FACTORY ,Road,Road Truck,25,380,0,9.056958,0.11,0.11,0.714," 1,051.47 "
+KO-16038,23-06-16,Dammam,Dammam,Dammam,Dammam,Disinfectants & Biocides,HAND SANITIZER,CASE,JOVAE FACTORY FOR DETERGENTS,Road,Road Truck,100,0,0,36.227832,0.11,0.11,0.714, 25.87 
+KO-16039,03-07-16,United States,Houston,Dammam,Jubail,Catalysts,"C-167 (3/8""",MT,BASF-SE,Sea,Container Ship,16,19446,80,5.796453,0.00956,0.11,0.714," 3,119.40 "
+DO-16044,11-07-16,United States,Houston,Abu Dhabi,Abu Dhabi,Food & Feed Chemicals,COPPER TRIBASIC CHLORIDE,MT,"Agri Products, Inc.    ",Sea,Container Ship,4,20002,0,1.449113,0.00956,0.11,0.714, 765.91 
+DO-16044,11-07-16,United States,Houston,Abu Dhabi,Abu Dhabi,Food & Feed Chemicals,ETHYLENEDIAMINE DIHYDRIODIDE (EDDI,MT,"Agri Products, Inc.    ",Sea,Container Ship,0.5,20002,0,0.181139,0.00956,0.11,0.714, 95.74 
+KO-16040,11-07-16,Belgium,Antwerp,Dammam,Jubail,Adsorbents & Desiccants,ACTIVATED CARBON (SGL 8X30,MT,CHEMVIRON CARBON,Sea,Container Ship,5,13334,80,1.811392,0.00956,0.11,0.714, 682.66 
+KO-16041,13-07-16,United States,Houston,Dammam,Dammam,Solvents,PERCHLOROETHYLENE ISOMER GRADE,MT,DOW,Sea,Container Ship,19.8,19446,0,7.173111,0.00956,0.11,0.714," 3,686.02 "
+JO-16038,13-07-16,Jebel Ali,Jebel Ali,Dammam,Jeddah,Solvents,Methoxy Propanol,MT,PETROCHEM ,Sea,Container Ship,15.2,2037,1250,5.506631,0.00956,0.11,0.714," 2,389.93 "
+KO-16043,14-07-16,United States,Houston,Dammam,Dammam,Adsorbents & Desiccants,"F-200 1/8""",MT ,BASF-SE,Sea,Container Ship,40,19446,0,14.491133,0.00956,0.11,0.714," 7,446.50 "
+KO-16043,14-07-16,United States,Houston,Dammam,Dammam,Adsorbents & Desiccants,"F-200 3/16""",MT ,BASF-SE,Sea,Container Ship,15,19446,0,5.434175,0.00956,0.11,0.714," 2,792.44 "
+KO-16043,14-07-16,United States,Houston,Dammam,Dammam,Adsorbents & Desiccants,"F-200 1/4""",MT ,BASF-SE,Sea,Container Ship,10,19446,0,3.622783,0.00956,0.11,0.714," 1,861.62 "
+KO-16042,14-07-16,France,Marseille,Dammam,Dammam,Disinfectants & Biocides,HYDROGENE PEROXIDE 35% (VALSTERANE 35 S,MT ,ARKEMA ,Sea,Container Ship,35.1,10742,0,12.715969,0.00956,0.11,0.714," 3,613.62 "
+JO-16039,14-07-16,France,Marseille,Dammam,Jeddah,Disinfectants & Biocides,HYDROGENE PEROXIDE 35% (VALSTERANE 35 AL4,MT ,ARKEMA ,Sea,Container Ship,105.3,10742,1250,38.147907,0.00956,0.11,0.714," 25,319.62 "
+RO-16022,16-07-16,Jubail,Jubail,Riyadh,Riyadh,Inorganic Acids,HCl 31%-33%,MT,NAWAH CHEMICALS FACTORY ,Road,Road Truck,25,380,0,9.056958,0.11,0.11,0.714," 1,051.47 "
+DO-16054,17-07-16,Germany,Hamburg,Jebel Ali,Jebel Ali,Surfactants,WILFARET KB10,MT,BRENNTAG EXPORT ,Sea,Container Ship,32.48,14446,0,11.7668,0.00956,0.11,0.714," 4,494.01 "
+DO-16024,17-07-16,China,Shanghai,Jebel Ali,Jebel Ali,Food & Feed Chemicals,TAURINE JP16,MT,A.H.A INTERNATIONAL ,Sea,Bulk Carrier,18,12964,0,6.52101,0.00795,0.11,0.714," 1,859.80 "
+DO-16053,17-07-16,Kuwait,Shuwaikh,Jebel Ali,Abu Dhabi,Food & Feed Chemicals,MONOCALCIUM PHOSPHATE GREENPHOS – 22.7 %,MT,KUBBAR INTERNATIONAL CO.,Sea,Container Ship,20,1667,180,7.245566,0.00956,0.11,0.714, 719.90 
+MO-16005,19-07-16,India,Nhava Sheva,Dammam,Dammam,Specialty Chemicals,MONOCHLORO DIFLUOROMETHANE -R22,MT,GUJARAT FLOROCHEMICALS LIMITED ,Sea,Container Ship,208.08,4260,0,75.382874,0.00956,0.11,0.714," 8,528.01 "
+KO-16044,19-07-16,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,F-25X,MT ,BASF-SE,Sea,Container Ship,10,19446,80,3.622783,0.00956,0.11,0.714," 1,949.62 "
+RO-16023,21-07-16,Jubail,Jubail,Riyadh,Riyadh,Inorganic Acids,HCl 31%-33%,MT,NAWAH CHEMICALS FACTORY ,Road,Road Truck,100,380,0,36.227832,0.11,0.11,0.714," 4,205.87 "
+JO-16040,21-07-16,Saihat,Saihat,Jeddah,Jeddah,Inorganic Acids,HCl 31%-33%,MT,AL KAWTHER STAR CHEMICAL,Road,Road Truck,50,1270,0,18.113916,0.11,0.11,0.714," 6,997.93 "
+RO-16026,21-07-16,France,Marseille,Jeddah,Riyadh,Polymers & Resins,CHEMIGUM P83,MT,OMNOVA SOLUTION-FRANCE,Sea,Container Ship,40,9445,950,14.491133,0.00956,0.11,0.714," 7,802.11 "
+RO-16024,21-07-16,France,Marseille,Jeddah,Riyadh,Polymers & Resins,CHEMIGUM P83,MT,OMNOVA SOLUTION-FRANCE,Sea,Container Ship,10,9445,950,3.622783,0.00956,0.11,0.714," 1,950.53 "
+DO-16055,24-07-16,Turkey,Mersin,Jebel Ali,Dubai,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EIL FIL TRADING ,Sea,Container Ship,210,6667,35,76.078448,0.00956,0.11,0.714," 14,247.49 "
+DO-16056,26-07-16,China,Guangzhou,Jebel Ali,Jebel Ali,Food & Feed Chemicals,DEXTROSE MONOHYDRATE,MT,QINGYUAN FOODSTUFF CO LTD,Sea,Bulk Carrier,200,12964,0,72.455665,0.00795,0.11,0.714," 20,664.49 "
+KO-16045,26-07-16,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,"SELEXSORB CDO 1/8""",MT ,BASF-SE,Sea,Container Ship,32,19446,80,11.592906,0.00956,0.11,0.714," 6,238.80 "
+KO-16046,27-07-16,Germany,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,Puristar R3-11G,MT,BASF-SE,Sea,Container Ship,2.6,13705,80,0.941924,0.00956,0.11,0.714, 364.20 
+JO-16041,27-07-16,India,Nhava Sheva,Dammam,Jeddah,Metal Oxides & Pigments,RED OXIDE,MT ,Selective Minerals & Color Industries (P) Ltd.-INDIA,Sea,Container Ship,52,4260,1250,18.838473,0.00956,0.11,0.714," 9,281.18 "
+KO-16047,08-08-16,France,Marseille,Dammam,Dammam,Solvents,DIMETHYL DISULPHIDE (DMDS,MT ,ARKEMA,Sea,Container Ship,16,10742,0,5.796453,0.00956,0.11,0.714," 1,647.23 "
+RO-16025,09-08-16,Jubail,Jubail,Riyadh,Riyadh,Alkalis & Bases,CAUSTIC SODA PRILLS,MT,JANA,Road,Road Truck,50,380,0,18.113916,0.11,0.11,0.714," 2,102.93 "
+DO-16057,09-08-16,United States,Houston,Jebel Ali,Bahrain,Surfactants,ELTESOL SC40,MT,HUNTSMAN,Sea,Container Ship,19.2,20187,889,6.955744,0.00956,0.01242,0.714," 3,922.33 "
+DO-16058,17-08-16,China,Shanghai,Jebel Ali,Jebel Ali,Organic Acids,CITRIC ACID ANHYDROUS BP98,MT,NORBRIGHT INDUSTRY CO.LTD,Sea,Bulk Carrier,100,12964,0,36.227832,0.00795,0.11,0.714," 10,332.25 "
+KO-16048,18-08-16,Jubail,Jubail,Dammam,Dammam,Alkalis & Bases,CAUSTIC SODA PRILLS,MT,JANA,Road,Road Truck,25,80,0,9.056958,0.11,0.11,0.714, 226.47 
+DO-16061,18-08-16,United States,Houston,Jebel Ali,Bahrain,Surfactants,ELTESOL SC40,MT,HUNTSMAN,Air,Air Freighter,5.76,13000,889,2.086723,1.13,0.01242,0.714," 84,679.49 "
+DO-16060,18-08-16,United States,Houston,Jebel Ali,Bahrain,Surfactants,ELTESOL SC40,MT,HUNTSMAN,Sea,Container Ship,38.4,20187,889,13.911488,0.00956,0.01242,0.714," 7,844.65 "
+DO-16059,18-08-16,United States,Houston,Jebel Ali,Bahrain,Surfactants,ELTESOL SC40,MT,HUNTSMAN,Sea,Container Ship,9.6,20187,889,3.477872,0.00956,0.01242,0.714," 1,961.16 "
+DO-16059,18-08-16,United States,Houston,Jebel Ali,Bahrain,Surfactants,EMPICOL LX 28/U,MT,HUNTSMAN,Sea,Container Ship,4.4,20187,889,1.594025,0.00956,0.01242,0.714, 898.87 
+DO-16059,18-08-16,United States,Houston,Jebel Ali,Bahrain,Surfactants,EMPIPEARL XA400/X,MT,HUNTSMAN,Sea,Container Ship,4.4,20187,889,1.594025,0.00956,0.01242,0.714, 898.87 
+JO-16042,30-08-16,Jubail,Jubail,Dammam,Jeddah,Alkalis & Bases,AMMONIA 25%,MT,NAWAH CHEMICALS FACTORY ,Road,Road Truck,10,80,1250,3.622783,0.11,0.11,0.714," 1,465.59 "
+KO-16049,01-09-16,Jebel Ali,Jebel Ali,Dammam,Dammam,Catalysts,DD-431,MT,S & A ABAHSAIN.CO LTD DUBAI BRANCH ,Sea,Container Ship,36.287,2037,0,13.145994,0.00956,0.11,0.714, 716.03 
+KO-16050,01-09-16,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,SELEXSORB CDL 7X14,MT,BASF-SE,Sea,Container Ship,95.2,19446,80,34.488896,0.00956,0.11,0.714," 18,560.42 "
+DO-16062,06-09-16,China,Shanghai,Jebel Ali,Dubai,Food & Feed Chemicals,XANTHAN GUM 80 MESH,MT,The TNN Development Limited ,Sea,Bulk Carrier,2,12964,35,0.724557,0.00795,0.11,0.714, 214.34 
+JO-16044,27-09-16,United States,Houston,Dammam,Jeddah,Solvents,DPG ( DI PROPYLENE GLYCOL,MT ,DOW,Sea,Container Ship,16.8,19446,1250,6.086276,0.00956,0.11,0.714," 5,437.53 "
+JO-16043,27-09-16,Germany,Hamburg,Dammam,Jeddah,Inorganic Acids,NITRIC ACID 63% FOOD GRADE,MT ,BRANNTAG,Sea,Container Ship,58.752,13705,1250,21.284576,0.00956,0.11,0.714," 15,791.27 "
+JO-16045,28-09-16,Saihat,Saihat,Jeddah,Jeddah,Disinfectants & Biocides,SODIUM HYPOCHLORITE 12%,MT,AL-KAWTHEE STAR CHEMICAL EST. SAIHAT. ,Road,Road Truck,25,1270,0,9.056958,0.11,0.11,0.714," 3,498.97 "
+KO-16053,29-09-16,United States,Houston,Dammam,Dammam,Adsorbents & Desiccants,"F-200 1/8""",MT,BASF-SE,Sea,Container Ship,13.60784,19446,0,4.929825,0.00956,0.11,0.714," 2,533.27 "
+RO-16027,05-10-16,Turkey,Mersin,Dammam,Riyadh,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,216,5556,400,78.252118,0.00956,0.11,0.714," 21,032.79 "
+KO-16054,06-10-16,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,F-25X,MT ,BASF-SE,Sea,Container Ship,12,19446,80,4.34734,0.00956,0.11,0.714," 2,339.55 "
+RO-16028,06-10-16,France,Marseille,Dammam,Riyadh,Adsorbents & Desiccants,CLARCL DICB,MT,CECA-FRANCE ,Sea,Container Ship,37.8,10742,400,13.694121,0.00956,0.11,0.714," 5,554.79 "
+DO-16065,13-10-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,EMPIGEN OB,MT,HUNTSMAN,Sea,Container Ship,8.8,20187,0,3.188049,0.00956,0.11,0.714," 1,700.57 "
+DO-16065,13-10-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,EMPIGEN BB,MT,HUNTSMAN,Sea,Container Ship,7.92,20187,0,2.869244,0.00956,0.11,0.714," 1,530.51 "
+DO-16063,13-10-16,Germany,Hamburg,Jebel Ali,Jebel Ali,Surfactants,WILFARET KB10,MT,BRENNTAG EXPORT ,Sea,Container Ship,48.72,14446,0,17.6502,0.00956,0.11,0.714," 6,741.02 "
+DO-16064,13-10-16,United States,Houston,Jebel Ali,Bahrain,Surfactants,ELTESOL SC40,MT,HUNTSMAN,Sea,Container Ship,19.2,20187,889,6.955744,0.00956,0.01242,0.714," 3,922.33 "
+KO-16055,16-10-16,Germany,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,MOLECULAR SIEVE - 4A 2.5-5.0MM,MT,BASF-SE,Sea,Container Ship,1.62,13705,80,0.586891,0.00956,0.11,0.714, 226.93 
+DO-16066,16-10-16,United States,Houston,Jebel Ali,Bahrain,Surfactants,EMPIPEARL XA400/X,MT,HUNTSMAN,Sea,Container Ship,10.4,20187,889,3.767695,0.00956,0.01242,0.714," 2,124.59 "
+DO-16066,16-10-16,United States,Houston,Jebel Ali,Bahrain,Surfactants,ELTESOL SC40,MT,HUNTSMAN,Sea,Container Ship,6.72,20187,889,2.43451,0.00956,0.01242,0.714," 1,372.81 "
+DO-16067,23-10-16,China,China,Jebel Ali,Dubai,Food & Feed Chemicals,XANTHAN GUM 80 MESH,MT,TNN China,Sea,Bulk Carrier,18,12964,35,6.52101,0.00795,0.11,0.714," 1,929.10 "
+KO-16056,24-10-16,France,Marseille,Dammam,Dammam,Adsorbents & Desiccants,SILIPORITE NK10 B 1.6-2 MM,MT,CECA-FRANCE ,Sea,Container Ship,15.45,10742,0,5.5972,0.00956,0.11,0.714," 1,590.61 "
+KO-16056,24-10-16,France,Marseille,Dammam,Dammam,Adsorbents & Desiccants,SIL. H2O BEADS 2.0-5 MM,MT,CECA-FRANCE ,Sea,Container Ship,8.48,10742,0,3.07212,0.00956,0.11,0.714, 873.03 
+KO-16056,24-10-16,France,Marseille,Dammam,Dammam,Adsorbents & Desiccants,CERAMIC BALLS STANDARD 1/8,MT,CECA-FRANCE ,Sea,Container Ship,6.16,10742,0,2.231634,0.00956,0.11,0.714, 634.19 
+RO-16029,24-10-16,South Korea,Busan,Dammam,Riyadh,Alkalis & Bases,POTASSIUM HYDROXIDE 90% min (FLAKE type,MT,"MIRAE C.M.T.,LTD",Sea,Container Ship,20,15186,400,7.245566,0.00956,0.11,0.714," 3,788.74 "
+JO-16046,02-11-16,United States,Houston,Jeddah,Jeddah,Surfactants,EMPICOL LXV/N,MT,HUNTSMAN,Sea,Container Ship,10,17224,0,3.622783,0.00956,0.11,0.714," 1,649.20 "
+DO-16069,03-11-16,China,China,Jebel Ali,Jebel Ali,Inorganic Salts,Potassium Sorbate,MT,YANGZHOU CHEMICAL IMPORT & EXPORT CO LTD,Sea,Bulk Carrier,14,12964,0,5.071897,0.00795,0.11,0.714," 1,446.51 "
+DO-16068,03-11-16,China,Shanghai,Jebel Ali,Dubai,Food & Feed Chemicals,XANTHAN GUM 200 MESH FOOD GRADE,MT,NORBRIGHT INDUSTRY CO.LTD,Sea,Bulk Carrier,18,12964,35,6.52101,0.00795,0.11,0.714," 1,929.10 "
+RO-16030,09-11-16,United States,Houston,Dammam,Riyadh,Surfactants,EMPIPEARL XA200/X,MT,HUNTSMAN,Sea,Container Ship,32,19446,400,11.592906,0.00956,0.11,0.714," 7,365.20 "
+DO-16070,13-11-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,EMPIGEN OB,MT,HUNTSMAN,Sea,Container Ship,16,20187,0,5.796453,0.00956,0.11,0.714," 3,091.94 "
+DO-16070,13-11-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,EMPIGEN BB,MT,HUNTSMAN,Sea,Container Ship,8.8,20187,0,3.188049,0.00956,0.11,0.714," 1,700.57 "
+DO-16070,13-11-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,EMPICOL LX 28/U,MT,HUNTSMAN,Sea,Container Ship,4.4,20187,0,1.594025,0.00956,0.11,0.714, 850.28 
+DO-16070,13-11-16,United States,Houston,Jebel Ali,Jebel Ali,Surfactants,EMPILAN 2520,MT,HUNTSMAN,Sea,Container Ship,4,20187,0,1.449113,0.00956,0.11,0.714, 772.99 
+KO-16057,23-11-16,France,Marseille,Dammam,Dammam,Adsorbents & Desiccants,SILIPORITE NK10 B 2.5-5.0MM,MT,CECA-FRANCE ,Sea,Container Ship,110.4,10742,0,39.995527,0.00956,0.11,0.714," 11,365.92 "
+KO-16057,23-11-16,France,Marseille,Dammam,Dammam,Adsorbents & Desiccants,SILIPORITE NK10 B 1.6-2 MM,MT,CECA-FRANCE ,Sea,Container Ship,43.65,10742,0,15.813449,0.00956,0.11,0.714," 4,493.86 "
+KO-16057,23-11-16,France,Marseille,Dammam,Dammam,Adsorbents & Desiccants,SIL. H2O BEADS 2.0-5 MM,MT,CECA-FRANCE ,Sea,Container Ship,22.08,10742,0,7.999105,0.00956,0.11,0.714," 2,273.18 "
+KO-16057,23-11-16,France,Marseille,Dammam,Dammam,Adsorbents & Desiccants,CERAMIC BALLS STANDARD 1/4,MT,CECA-FRANCE ,Sea,Container Ship,19.04,10742,0,6.897779,0.00956,0.11,0.714," 1,960.21 "
+KO-16057,23-11-16,France,Marseille,Dammam,Dammam,Adsorbents & Desiccants,CERAMIC BALLS STANDARD 1/2,MT,CECA-FRANCE ,Sea,Container Ship,9.52,10742,0,3.44889,0.00956,0.11,0.714, 980.10 
+KO-16057,23-11-16,France,Marseille,Dammam,Dammam,Adsorbents & Desiccants,CERAMIC BALLS STANDARD 1/8,MT,CECA-FRANCE ,Sea,Container Ship,9.52,10742,0,3.44889,0.00956,0.11,0.714, 980.10 
+JO-16047,24-11-16,Saihat,Saihat,Jeddah,Jeddah,Inorganic Acids,HCl 31%-33%,MT,AL KAWTHER STAR CHEMICAL,Road,Road Truck,50,1270,0,18.113916,0.11,0.11,0.714," 6,997.93 "
+DO-16072,28-11-16,Turkey,Mersin,Jebel Ali,Dubai,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EIL FIL TRADING ,Sea,Container Ship,307.8,6667,35,111.509268,0.00956,0.11,0.714," 20,882.75 "
+DO-16071,28-11-16,United States,Houston,Dammam,Jebel Ali,Adsorbents & Desiccants,F-24X CLAY,MT,BASF-SE,Sea,Container Ship,10,19446,1000,3.622783,0.00956,0.01242,0.714," 1,985.82 "
+DO-16073,04-12-16,China,Qingdao,Jebel Ali,Ajman,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-14,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,48,13149,60,17.38936,0.00795,0.11,0.714," 5,346.87 "
+KO-16059,07-12-16,United States,Houston,Dammam,Dammam,Adsorbents & Desiccants,"F-200 1/8""",MT,BASF-SE,Sea,Container Ship,27.216,19446,0,9.859767,0.00956,0.11,0.714," 5,066.60 "
+KO-16058,07-12-16,India,Mundra,Dammam,Dammam,Inorganic Salts,REFINED SALT,MT,Kutch Brine Chem Industries,Sea,Container Ship,15000,4074,0,5434.174852,0.00956,0.11,0.714," 588,091.60 "
+JO-16048,12-12-16,China,Shanghai,Dammam,Jeddah,Inorganic Salts,BARIUM CHLORIDE DIHYDRATE,MT,NORBRIGHT ,Sea,Bulk Carrier,100,14816,1250,36.227832,0.00795,0.11,0.714," 25,554.59 "
+KO-16060,14-12-16,France,Marseille,Dammam,Dammam,Solvents,DIMETHYL DISULPHIDE (DMDS,MT ,ARKEMA,Sea,Container Ship,16,10742,0,5.796453,0.00956,0.11,0.714," 1,647.23 "
+DO-16075,15-12-16,Germany,Hamburg,Jebel Ali,Jebel Ali,Surfactants,WILFARET KB10,MT,BRENNTAG EXPORT ,Sea,Container Ship,48.72,14446,0,17.6502,0.00956,0.11,0.714," 6,741.02 "
+DO-16074,15-12-16,United States,New York,Jebel Ali,Jebel Ali,Food & Feed Chemicals,CHOLINE CHLORIDE 70%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,19.125,20187,0,6.928573,0.00956,0.11,0.714," 3,695.84 "
+JO-16049,18-12-16,Jubail,Jubail,Dammam,Jeddah,Alkalis & Bases,AMMONIA 25%,MT,NAWAH CHEMICALS FACTORY ,Road,Road Truck,10,80,1250,3.622783,0.11,0.11,0.714," 1,465.59 "
+DO-16076,22-12-16,Turkey,Mersin,Jebel Ali,Dubai,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EIL FIL TRADING ,Sea,Container Ship,282.15,6667,35,102.216829,0.00956,0.11,0.714," 19,142.52 "
+KO-16062,26-12-16,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,Selexsorb CDL 7X14,MT,BASF-SE,Sea,Container Ship,35.38222,19446,80,12.818211,0.00956,0.11,0.714," 6,898.20 "
+KO-16062,26-12-16,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,SELEXSORB COS 7X14,MT,BASF-SE,Sea,Container Ship,5.443311,19446,80,1.971994,0.00956,0.11,0.714," 1,061.24 "
+KO-16061,27-12-16,Germany,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,PURISTAR R3-17 RED,MT,BASF-SE,Sea,Container Ship,12,13705,80,4.34734,0.00956,0.11,0.714," 1,680.94 "
+KO-16063,28-12-16,France,Marseille,Dammam,Dammam,Solvents,DIMETHYL DISULPHIDE EVOLUTION (DMDS) E2,MT ,ARKEMA,Sea,Container Ship,24,10742,0,8.69468,0.00956,0.11,0.714," 2,470.85 "
+MO-16001,29-12-16,India,Nhava Sheva,Dammam,Dammam,Specialty Chemicals,MONOCHLORO DIFLUOROMETHANE -R22,MT,GUJARAT FLOROCHEMICALS LIMITED ,Sea,Container Ship,183.6,4260,0,66.5143,0.00956,0.11,0.714," 7,524.71 "
+JO-17000,29-12-16,France,Marseille,Dammam,Jeddah,Disinfectants & Biocides,HYDROGENE PEROXIDE 35% (VALSTERANE 35 AL4,MT ,ARKEMA ,Sea,Container Ship,61.02,10742,1250,22.106223,0.00956,0.11,0.714," 14,672.39 "
+KO-17000,01-01-17,China,Zhenjiang,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS 99 PCT MIN,MT,"(XISHUANGBANNA CINYDA COMMERCE CO.,LTD.)SICHUAN UNION XINLI CO. LTD.-CHINA.",Sea,Bulk Carrier,44001.6,14631,0,15940.82588,0.00795,0.11,0.714," 5,129,491.66 "
+JO-17001,02-01-17,Germany,Hamburg,Jeddah,Jeddah,Inorganic Salts,BUDALNa 324 Trisodium Phosphate Anhydrous,MT,BUDENHEIM ,Sea,Container Ship,20,12779,0,7.245566,0.00956,0.11,0.714," 2,448.52 "
+KO-17001,02-01-17,Germany,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,MOLECULAR SIEVE - 13X 1.6-5.0MM,MT,BASF-SE,Sea,Container Ship,23.22,13705,80,8.412103,0.00956,0.11,0.714," 3,252.62 "
+KO-17001,02-01-17,Germany,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,MOLECULAR SIEVE - 3A 2.5-5.0MM,MT,BASF-SE,Sea,Container Ship,1.08,13705,80,0.391261,0.00956,0.11,0.714, 151.28 
+KO-17002,03-01-17,United Kingdom,Felixstowe,Dammam,Jubail,Equipment & Consumables,"Floating Mesh Screens-No.#12 In 304l,Wire 0.56mm Vessel Diameter 2000mm- C3 Drier",PC,Distillation Equipment Company Ltd,Sea,Container Ship,4,13334,80,1.449113,0.00956,0.11,0.714, 546.13 
+KO-17003,05-01-17,India,Nhava Sheva,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS REG 1000S,MT,GRASIM INDUSTRIES LTD,Sea,Container Ship,3000,4260,0,1086.83497,0.00956,0.11,0.714," 122,952.80 "
+DO-17000,08-01-17,India,Nhava Sheva,Jebel Ali,Jebel Ali,Inorganic Salts,SODIUM SULPHATE ANHYDROUS REG 1000S,MT,GRASIM INDUSTRIES LTD,Sea,Container Ship,1200,3889,0,434.733988,0.00956,0.11,0.714," 44,925.01 "
+RO-17025,08-01-17,Turkey,Mersin,Dammam,Riyadh,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,504,5556,400,182.588275,0.00956,0.11,0.714," 49,076.51 "
+RO-17000,08-01-17,Turkey,Mersin,Dammam,Riyadh,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,216,5556,400,78.252118,0.00956,0.11,0.714," 21,032.79 "
+RO-17001,10-01-17,Riyadh,Riyadh,Riyadh,Riyadh,Inorganic Acids,HCl 31%-33%,MT,SCHLO RIYADH ,Road,Road Truck,100,0,0,36.227832,0.11,0.11,0.714, 25.87 
+KO-17005,15-01-17,United States,Houston,Dammam,Dammam,Catalysts,T162 (1/2”,MT,BASF-SE,Sea,Container Ship,2.8,19446,0,1.014379,0.00956,0.11,0.714, 521.25 
+KO-17005,15-01-17,United States,Houston,Dammam,Dammam,Catalysts,T162 (1/4”,MT,BASF-SE,Sea,Container Ship,2.8,19446,0,1.014379,0.00956,0.11,0.714, 521.25 
+KO-17005,15-01-17,United States,Houston,Dammam,Dammam,Catalysts,T162 (3/16”,MT,BASF-SE,Sea,Container Ship,2.8,19446,0,1.014379,0.00956,0.11,0.714, 521.25 
+KO-17005,15-01-17,United States,Houston,Dammam,Dammam,Catalysts,T162 (3/4”,MT,BASF-SE,Sea,Container Ship,2.8,19446,0,1.014379,0.00956,0.11,0.714, 521.25 
+KO-17005,15-01-17,United States,Houston,Dammam,Dammam,Catalysts,T162 (1/8”,MT,BASF-SE,Sea,Container Ship,2,19446,0,0.724557,0.00956,0.11,0.714, 372.32 
+RO-17002,18-01-17,France,Marseille,Dammam,Riyadh,Surfactants,EMPIPEARL XA200/X,MT,Innospec Performance Chemicals ,Sea,Container Ship,32,10742,400,11.592906,0.00956,0.11,0.714," 4,702.47 "
+DO-17004,19-01-17,China,Qingdao,Jebel Ali,Jebel Ali,Organic Acids,CITRIC ACID MONOHYDRATE BP98 MESH SIZE:,MT,"WEIFANG ENSIGN INDUSTRY CO., LTD.",Sea,Bulk Carrier,275,13149,0,99.626539,0.00795,0.11,0.714," 28,818.13 "
+DO-17003,19-01-17,China,Qingdao,Jebel Ali,Jebel Ali,Organic Acids,CITRIC ACID ANHYDROUS BP98 MESH SIZE: 30-100,MT,"WEIFANG ENSIGN INDUSTRY CO., LTD.",Sea,Bulk Carrier,125,13149,0,45.28479,0.00795,0.11,0.714," 13,099.15 "
+DO-17002,19-01-17,Jebel Ali,Jebel Ali,Jebel Ali,Jebel Ali,Surfactants,LUTENSOL AO 3,MT,BASF-FZE,Road,Road Truck,28.8,0,0,10.433616,0.11,0.11,0.714, 7.45 
+DO-17001,19-01-17,France,Antwerp,Jebel Ali,Jebel Ali,Surfactants,NANSA HS85/S,MT,Innospec Performance Chemicals Belgium,Sea,Container Ship,8,14446,0,2.898227,0.00956,0.11,0.714," 1,106.90 "
+DO-17001,19-01-17,France,Antwerp,Jebel Ali,Jebel Ali,Surfactants,EMPILAN KR6,MT,Innospec Performance Chemicals Belgium,Sea,Container Ship,1.44,14446,0,0.521681,0.00956,0.11,0.714, 199.24 
+DO-17005,23-01-17,Turkey,Mersin,Jebel Ali,Jebel Ali,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,1026,6667,0,371.69756,0.00956,0.11,0.714," 65,659.06 "
+KO-17006,01-02-17,Jebel Ali,Jebel Ali,Dammam,Dammam,Solvents,ETHANOL 99% PAK,MT,PETROCHEM ,Sea,Container Ship,26.4,2037,0,9.564148,0.00956,0.11,0.714, 520.94 
+JO-17003,01-02-17,Jebel Ali,Jebel Ali,Dammam,Jeddah,Solvents,ETHANOL 99% PAK,MT,PETROCHEM ,Sea,Container Ship,66,2037,1250,23.910369,0.00956,0.11,0.714," 10,377.34 "
+KO-17007,02-02-17,Japan,Yokohama,Dammam,Dammam,Disinfectants & Biocides,Calcium Hypochlorite 70Percent Granular (HICHLON,MT ,Mitsubishi Corporation,Sea,Container Ship,69.75,15557,0,25.268913,0.00956,0.11,0.714," 10,391.61 "
+DO-17006,02-02-17,Germany,Hamburg,Jebel Ali,Jebel Ali,Adsorbents & Desiccants,F-200 ¼”,MT,BASF-SE,Sea,Container Ship,13.608,14446,0,4.929883,0.00956,0.11,0.714," 1,882.84 "
+DO-17006,02-02-17,Germany,Hamburg,Jebel Ali,Jebel Ali,Adsorbents & Desiccants,F-200 1/8”,MT,BASF-SE,Sea,Container Ship,13.608,14446,0,4.929883,0.00956,0.11,0.714," 1,882.84 "
+DO-17006,02-02-17,Germany,Hamburg,Jebel Ali,Jebel Ali,Adsorbents & Desiccants,F-200 3/16”,MT,BASF-SE,Sea,Container Ship,13.608,14446,0,4.929883,0.00956,0.11,0.714," 1,882.84 "
+RO-17003,02-02-17,Japan,Yokohama,Dammam,Riyadh,Disinfectants & Biocides,Calcium Hypochlorite 70Percent Granular (HICHLON,MT ,Mitsubishi Corporation,Sea,Container Ship,41.85,15557,400,15.161348,0.00956,0.11,0.714," 8,076.36 "
+JO-17004,02-02-17,Japan,Yokohama,Dammam,Jeddah,Disinfectants & Biocides,Calcium Hypochlorite 70Percent Granular (HICHLON,MT ,Mitsubishi Corporation,Sea,Container Ship,69.75,15557,1250,25.268913,0.00956,0.11,0.714," 19,982.23 "
+JO-17002,05-02-17,China,Shanghai,Dammam,Jeddah,Inorganic Salts,AMMONIUM BICARBONATE (FOOD GRADE,MT ,NORBRIGHT,Sea,Bulk Carrier,168,14816,1250,60.862758,0.00795,0.11,0.714," 42,931.71 "
+JO-17006,07-02-17,United States,Los Angeles,Jeddah,Jeddah,Inorganic Salts,BORAX PANTA HYDRATE,MT,Searles Valley,Sea,Container Ship,79.8,21668,0,28.90981,0.00956,0.11,0.714," 16,550.90 "
+JO-17005,07-02-17,China,Shanghai,Dammam,Jeddah,Inorganic Salts,BARIUM CHLORIDE DIHYDRATE,MT,NORBRIGHT ,Sea,Bulk Carrier,125,14816,1250,45.28479,0.00795,0.11,0.714," 31,943.23 "
+DO-17007,09-02-17,Netherlands,Rotterdam,Jebel Ali,Jebel Ali,Chelating Agents,DISSOLVINE D-40,MT,AKZONOBEL ,Sea,Container Ship,15,14631,0,5.434175,0.00956,0.11,0.714," 2,101.97 "
+DO-17007,09-02-17,Netherlands,Rotterdam,Jebel Ali,Jebel Ali,Chelating Agents,DISSOLVINE E-39,MT,AKZONOBEL ,Sea,Container Ship,4,14631,0,1.449113,0.00956,0.11,0.714, 560.52 
+DO-17007,09-02-17,Netherlands,Rotterdam,Jebel Ali,Jebel Ali,Chelating Agents,DISSOLVINE GL-38,MT,AKZONOBEL ,Sea,Container Ship,1,14631,0,0.362278,0.00956,0.11,0.714, 140.13 
+RO-17004,09-02-17,France,Marseille,Jeddah,Riyadh,Polymers & Resins,CHEMIGUM P83,MT,OMNOVA SOLUTION-FRANCE,Sea,Container Ship,10,9445,950,3.622783,0.00956,0.11,0.714," 1,950.53 "
+KO-17010,19-02-17,South Africa,Durban,Dammam,Dammam,Solvents,MEK,MT,SASOL,Sea,Container Ship,13.9,10742,0,5.035669,0.00956,0.11,0.714," 1,431.04 "
+KO-17009,19-02-17,South Africa,Durban,Dammam,Dammam,Solvents,ACETONE,MT,SASOL,Sea,Container Ship,25.6,10742,0,9.274325,0.00956,0.11,0.714," 2,635.58 "
+KO-17008,19-02-17,South Africa,Durban,Dammam,Dammam,Solvents,ETHANOL 99.9/DB,MT,SASOL,Sea,Container Ship,26.4,10742,0,9.564148,0.00956,0.11,0.714," 2,717.94 "
+RO-17006,19-02-17,South Africa,Durban,Dammam,Riyadh,Solvents,MEK,MT,SASOL,Sea,Container Ship,26.4,10742,400,9.564148,0.00956,0.11,0.714," 3,879.54 "
+RO-17005,19-02-17,South Africa,Durban,Dammam,Riyadh,Solvents,ETHANOL 99.9/DB,MT,SASOL,Sea,Container Ship,132,10742,400,47.820739,0.00956,0.11,0.714," 19,397.69 "
+JO-17008,19-02-17,South Africa,Durban,Dammam,Jeddah,Solvents,MEK,MT,SASOL,Sea,Container Ship,13.2,10742,1250,4.782074,0.00956,0.11,0.714," 3,173.97 "
+JO-17007,19-02-17,South Africa,Durban,Dammam,Jeddah,Solvents,ETHANOL 99.9/DB,MT,SASOL,Sea,Container Ship,105.6,10742,1250,38.256591,0.00956,0.11,0.714," 25,391.75 "
+KO-17011,20-02-17,South Africa,Durban,Dammam,Dammam,Specialty Chemicals,PROP BH BLEND,MT,SASOL,Sea,Container Ship,25.6,10742,0,9.274325,0.00956,0.11,0.714," 2,635.58 "
+DO-17008,20-02-17,South Korea,Busan,Jebel Ali,Jebel Ali,Alkalis & Bases,POTASSIUM HYDROXIDE 90% min (FLAKE type,MT,"MIRAE C.M.T.,LTD",Sea,Container Ship,20,13334,0,7.245566,0.00956,0.11,0.714," 2,554.63 "
+RO-17007,20-02-17,South Africa,Durban,Dammam,Riyadh,Specialty Chemicals,PROP BH BLEND,MT,SASOL,Sea,Container Ship,25.6,10742,400,9.274325,0.00956,0.11,0.714," 3,761.98 "
+MO-17001,21-02-17,India,Nhava Sheva,Dammam,Dammam,Specialty Chemicals,MONOCHLORO DIFLUOROMETHANE -R22,MT,GUJARAT FLOROCHEMICALS LIMITED ,Sea,Container Ship,244.8,4260,0,88.685734,0.00956,0.11,0.714," 10,032.95 "
+DO-17009,21-02-17,Serbia,Koper,Jebel Ali,Jebel Ali,Food & Feed Chemicals,MONOCALCIUM PHOSPHATE GREENPHOS – 22.7 %,MT,Elixir Prahovo d.o.o.,Sea,Container Ship,253,12038,0,91.656416,0.00956,0.11,0.714," 29,181.51 "
+DO-17011,22-02-17,China,Guangzhou,Jebel Ali,Jebel Ali,Food & Feed Chemicals,DEXTROSE MONOHYDRATE,MT,QINGYUAN FOODSTUFF CO LTD,Sea,Bulk Carrier,108,12964,0,39.126059,0.00795,0.11,0.714," 11,158.83 "
+JO-17009,02-03-17,France,Marseille,Jeddah,Jeddah,Surfactants,EMPILAN 2502,MT ,Innospec Performance Chemicals ,Sea,Container Ship,10.4,9445,0,3.767695,0.00956,0.11,0.714, 941.75 
+DO-17012,05-03-17,Germany,Hamburg,Jebel Ali,Jebel Ali,Surfactants,WILFARET KB10,MT,BRENNTAG EXPORT ,Sea,Container Ship,48.72,14446,0,17.6502,0.00956,0.11,0.714," 6,741.02 "
+KO-17012,08-03-17,Netherlands,Rotterdam,Dammam,Dammam,Chelating Agents,DISSOLVINE E-39,MT,AKZONOBEL,Sea,Container Ship,8,13520,0,2.898227,0.00956,0.11,0.714," 1,036.08 "
+KO-17012,08-03-17,Netherlands,Rotterdam,Dammam,Dammam,Chelating Agents,DISSOLVINE NA,MT,AKZONOBEL,Sea,Container Ship,5,13520,0,1.811392,0.00956,0.11,0.714, 647.55 
+KO-17012,08-03-17,Netherlands,Rotterdam,Dammam,Dammam,Chelating Agents,DISSOLVINE NA2,MT,AKZONOBEL,Sea,Container Ship,3,13520,0,1.086835,0.00956,0.11,0.714, 388.53 
+JO-17011,14-03-17,United States,Houston,Dammam,Jeddah,Solvents,DPG ( DI PROPYLENE GLYCOL,MT ,DOW,Sea,Container Ship,16.8,19446,1250,6.086276,0.00956,0.11,0.714," 5,437.53 "
+JO-17012,15-03-17,Jubail,Jubail,Jeddah,Jeddah,Disinfectants & Biocides,SODIUM HYPOCHLORITE 12%-15%,MT,NAWAH CHEMICALS FACTORY ,Road,Road Truck,25,1300,0,9.056958,0.11,0.11,0.714," 3,581.47 "
+JO-17010,16-03-17,France,Marseille,Jeddah,Jeddah,Surfactants,EMPICOL LXV/N,MT,Innospec Performance Chemicals ,Sea,Container Ship,20,9445,0,7.245566,0.00956,0.11,0.714," 1,811.06 "
+DO-17013,16-03-17,China,Shanghai,Jebel Ali,Jebel Ali,Inorganic Salts,FERROUS CARBONATE,MT,Yangzhou Chemical,Sea,Bulk Carrier,25,12964,0,9.056958,0.00795,0.11,0.714," 2,583.06 "
+DO-17010,16-03-17,Turkey,Mersin,Jebel Ali,Jebel Ali,Inorganic Salts,SODIUM METABISULPHITE HP (FOOD GRADE,MT,AK-PA TESTIL LHRACAT PAZARLAMA A.S. (AK-KIM),Sea,Container Ship,48,6667,0,17.38936,0.00956,0.11,0.714," 3,071.77 "
+KO-17015,16-03-17,Germany,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,PURISTAR R3-16 T5X3,MT,BASF-SE,Sea,Container Ship,2.156,13705,80,0.781072,0.00956,0.11,0.714, 302.01 
+KO-17014,16-03-17,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,SELEXSORB ST 7X14,MT,BASF-SE,Sea,Container Ship,155.642,19446,80,56.385723,0.00956,0.11,0.714," 30,344.34 "
+KO-17013,16-03-17,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,Selexsorb CDO 1/8”,MT,BASF-SE,Sea,Container Ship,32.81,19446,80,11.886352,0.00956,0.11,0.714," 6,396.72 "
+KO-17016,19-03-17,United States,Houston,Dammam,Dammam,Solvents,DOWPERR PERCHLOROETHYLENE LAUNDRY GRADE,MT,OLIN,Sea,Container Ship,19.8,19446,0,7.173111,0.00956,0.11,0.714," 3,686.02 "
+JO-17013,19-03-17,United States,Houston,Dammam,Jeddah,Solvents,DOWPERR PERCHLOROETHYLENE LAUNDRY GRADE,MT,OLIN,Sea,Container Ship,19.8,19446,1250,7.173111,0.00956,0.11,0.714," 6,408.52 "
+RO-17009,26-03-17,France,Marseille,Dammam,Riyadh,Surfactants,EMPIPEARL XA200/X,MT,Innospec Performance Chemicals ,Sea,Container Ship,32,10742,400,11.592906,0.00956,0.11,0.714," 4,702.47 "
+MO-17002,27-03-17,Jebel Ali,Jebel Ali,Yanbu,Dammam,Solvents,Xylene bulk (+/-5%,MT ,Petrochem Middle East ,Sea,Container Ship,600,3704,1450,217.366994,0.00956,0.11,0.714," 117,101.34 "
+DO-17014,29-03-17,India,Nhava Sheva,Jebel Ali,Jebel Ali,Inorganic Salts,SODIUM SULPHATE ANHYDROUS REG 1000S,MT,GRASIM INDUSTRIES LTD,Sea,Container Ship,1500,3889,0,543.417485,0.00956,0.11,0.714," 56,156.26 "
+DO-17015,30-03-17,China,Guangzhou,Jebel Ali,Jebel Ali,Food & Feed Chemicals,DEXTROSE MONOHYDRATE,MT,QINGYUAN FOODSTUFF CO LTD,Sea,Bulk Carrier,108,12964,0,39.126059,0.00795,0.11,0.714," 11,158.83 "
+KO-17017,30-03-17,Germany,Hamburg,Dammam,Jubail,Catalysts,DEOXO CATALYST,MT,BASF-SE,Sea,Container Ship,1.9,13705,80,0.688329,0.00956,0.11,0.714, 266.15 
+KO-17018,06-04-17,Germany,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,MOLECULAR SIEVE - 4A (2.5-5.0MM,MT,BASF-SE,Sea,Container Ship,30.24,13705,80,10.955297,0.00956,0.11,0.714," 4,235.97 "
+KO-17019,09-04-17,Germany,Hamburg,Dammam,Dammam,Adsorbents & Desiccants,"F-200 1/8""",MT,BASF-SE,Sea,Container Ship,10.206,13705,0,3.697413,0.00956,0.11,0.714," 1,339.83 "
+KO-17019,09-04-17,Germany,Hamburg,Dammam,Dammam,Adsorbents & Desiccants,"F-200 (3/16""",MT,BASF-SE,Sea,Container Ship,3.402,13705,0,1.232471,0.00956,0.11,0.714, 446.61 
+DO-17016,11-04-17,Turkey,Mersin,Jebel Ali,Jebel Ali,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,102.6,6667,0,37.169756,0.00956,0.11,0.714," 6,565.91 "
+RO-17011,11-04-17,China,Zhenjiang,Dammam,Riyadh,Inorganic Salts,SODIUM SULPHATE ANHYDROUS 99 PCT MIN,MT,SICHUAN UNION XINLI CO. LTD.-CHINA.,Sea,Bulk Carrier,4000,14631,400,1449.113294,0.00795,0.11,0.714," 642,300.47 "
+RO-17010,11-04-17,China,Zhenjiang,Dammam,Riyadh,Inorganic Salts,SODIUM SULPHATE ANHYDROUS 99 PCT MIN,MT,SICHUAN UNION XINLI CO. LTD.-CHINA.,Sea,Bulk Carrier,6500,14631,400,2354.809103,0.00795,0.11,0.714," 1,043,738.26 "
+JO-17014,18-04-17,Netherlands,Rotterdam,Dammam,Jeddah,Inorganic Salts,BROXO 6-15 PROFESSIONAL SALT,MT,AKZONOBEL,Sea,Container Ship,147,13520,1250,53.254914,0.00956,0.11,0.714," 39,250.45 "
+KO-17021,20-04-17,Germany,Hamburg,Dammam,Dammam,Inorganic Salts,DI SODIUM PHOSPATE FG,MT,FOSFA GERMANY,Sea,Container Ship,20,13705,0,7.245566,0.00956,0.11,0.714," 2,625.57 "
+DO-17017,30-04-17,China,Qingdao,Jebel Ali,Jebel Ali,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-14,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,48,13149,0,17.38936,0.00795,0.11,0.714," 5,030.07 "
+RO-17013,30-04-17,Turkey,Mersin,Dammam,Riyadh,Inorganic Salts,SODA ASH LIGHT,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,90,5556,400,32.605049,0.00956,0.11,0.714," 8,763.66 "
+KO-17022,01-05-17,Netherlands,Rotterdam,Dammam,Dammam,Inorganic Salts,BROXO 6-15 PROFESSIONAL SALT,MT,AKZONOBEL,Sea,Container Ship,98,13520,0,35.503276,0.00956,0.11,0.714," 12,691.97 "
+RO-17015,01-05-17,Jebel Ali,Jebel Ali,Dammam,Riyadh,Solvents,ISO PROPYLALCOHOL 99.9% PURE,MT,PETROCHEM ,Sea,Container Ship,25.6,2037,400,9.274325,0.00956,0.11,0.714," 1,631.55 "
+KO-17023,03-05-17,United States,Houston,Dammam,Dammam,Catalysts,T162 (1”,MT,BASF-SE,Sea,Container Ship,22.15,19446,0,8.024465,0.00956,0.11,0.714," 4,123.50 "
+KO-17023,03-05-17,United States,Houston,Dammam,Dammam,Catalysts,T162 (3/16”,MT,BASF-SE,Sea,Container Ship,8.475,19446,0,3.070309,0.00956,0.11,0.714," 1,577.73 "
+KO-17023,03-05-17,United States,Houston,Dammam,Dammam,Catalysts,T162 (1/2”,MT,BASF-SE,Sea,Container Ship,1,19446,0,0.362278,0.00956,0.11,0.714, 186.16 
+KO-17023,03-05-17,United States,Houston,Dammam,Dammam,Catalysts,T162 (1/4”,MT,BASF-SE,Sea,Container Ship,0.9,19446,0,0.32605,0.00956,0.11,0.714, 167.55 
+KO-17024,07-05-17,United States,Houston,Dammam,Dammam,Adsorbents & Desiccants,F-24X CLAY,MT,BASF-SE,Sea,Container Ship,103,19446,0,37.314667,0.00956,0.11,0.714," 19,174.73 "
+JO-17016,07-05-17,Jebel Ali,Jebel Ali,Dammam,Jeddah,Solvents,ACETONE,MT ,PETROCHEM ,Sea,Container Ship,25.6,2037,1250,9.274325,0.00956,0.11,0.714," 4,025.15 "
+KO-17025,08-05-17,China,Qingdao,Dammam,Dammam,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-14,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,48,15001,0,17.38936,0.00795,0.11,0.714," 5,736.80 "
+KO-17025,08-05-17,China,Qingdao,Dammam,Dammam,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-75,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,24,15001,0,8.69468,0.00795,0.11,0.714," 2,868.40 "
+JO-17018,10-05-17,China,Qingdao,Dammam,Jeddah,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-14,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,98,15001,1250,35.503276,0.00795,0.11,0.714," 25,187.63 "
+RO-17017,14-05-17,Riyadh,Riyadh,Riyadh,Riyadh,Inorganic Acids,HCl 31%-33%,MT,SCHLO RIYADH ,Road,Road Truck,100,0,0,36.227832,0.11,0.11,0.714, 25.87 
+RO-17016,14-05-17,China,Qingdao,Dammam,Riyadh,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-14,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,48,15001,400,17.38936,0.00795,0.11,0.714," 7,848.80 "
+RO-17016,14-05-17,China,Qingdao,Dammam,Riyadh,Aluminum Compounds,ALUMINUM HYDROXIDE H-WF-75,MT ,"HENAN KINGWAY CHEMICALS CO.,LTD.",Sea,Bulk Carrier,24,15001,400,8.69468,0.00795,0.11,0.714," 3,924.40 "
+KO-17026,18-05-17,United States,Houston,Dammam,Dammam,Adsorbents & Desiccants,SELEXSORB ST 7X14,MT,BASF-SE,Sea,Container Ship,81.64704,19446,0,29.578953,0.00956,0.11,0.714," 15,199.61 "
+KO-17027,21-05-17,France,Marseille,Dammam,Al-Ahsa Oasis,Adsorbents & Desiccants,SILIPORITE NK10 B 2.5-5.0MM,MT,CECA-FRANCE ,Sea,Container Ship,132,10742,110,47.820739,0.00956,0.11,0.714," 15,186.89 "
+KO-17027,21-05-17,France,Marseille,Dammam,Al-Ahsa Oasis,Adsorbents & Desiccants,SILIPORITE H2O,MT,CECA-FRANCE ,Sea,Container Ship,12.8,10742,110,4.637163,0.00956,0.11,0.714," 1,472.67 "
+KO-17027,21-05-17,France,Marseille,Dammam,Al-Ahsa Oasis,Adsorbents & Desiccants,CERAMIC BALLS(3MM,MT,CECA-FRANCE ,Sea,Container Ship,9.24,10742,110,3.347452,0.00956,0.11,0.714," 1,063.08 "
+RO-17018,21-05-17,Jebel Ali,Jebel Ali,Dammam,Riyadh,Surfactants,EMPIGEN OB,MT,ABAHSAIN UAE,Sea,Container Ship,2,2037,400,0.724557,0.00956,0.11,0.714, 127.46 
+RO-17014,21-05-17,Netherlands,Rotterdam,Dammam,Riyadh,Inorganic Salts,BROXO 6-15 PROFESSIONAL SALT,MT,AKZONOBEL,Sea,Container Ship,49,13520,400,17.751638,0.00956,0.11,0.714," 8,501.98 "
+RO-17019,23-05-17,Cyprus,Limassol,Dammam,Riyadh,Inorganic Salts,SODIUM SULPHATE ANHYDROUS 99 PCT MIN,MT,FOSCOTE ENTERPRIISES INC ,Sea,Container Ship,2500,5000,400,905.695809,0.00956,0.11,0.714," 230,146.67 "
+KO-17028,24-05-17,France,Marseille,Dammam,Al-Ahsa Oasis,Adsorbents & Desiccants,SILIPORITE NK10 B 2.5-5.0MM,MT,CECA-FRANCE ,Sea,Container Ship,93,10742,110,33.691884,0.00956,0.11,0.714," 10,699.85 "
+KO-17028,24-05-17,France,Marseille,Dammam,Al-Ahsa Oasis,Adsorbents & Desiccants,SILIPORITE NK10 B 1.6-2.5MM,MT,CECA-FRANCE ,Sea,Container Ship,37,10742,110,13.404298,0.00956,0.11,0.714," 4,256.93 "
+KO-17031-A,28-05-17,Riyadh,Riyadh,Dammam,Dammam,Organic Acids,CITRIC ACID ANHYDROUS,MT,MODREN PETROCHEMICAL ,Road,Road Truck,50,400,0,18.113916,0.11,0.11,0.714," 2,212.93 "
+KO-17029,28-05-17,China,Guangzhou,Dammam,Dammam,Inorganic Acids,PHOSPHORIC ACID 85% FOOD GRADE,MT,"GUIZHOU SINO BASIC CHEMICAL CO.,LTD.",Sea,Bulk Carrier,51.52,14816,0,18.664579,0.00795,0.11,0.714," 6,081.72 "
+DO-17018-A,28-05-17,China,Guangzhou,Jebel Ali,Jebel Ali,Food & Feed Chemicals,DEXTROSE MONOHYDRATE,MT,QINGYUAN FOODSTUFF CO LTD,Sea,Bulk Carrier,216,12964,0,78.252118,0.00795,0.11,0.714," 22,317.65 "
+KO-17030,28-05-17,Germany,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,PURISTAR R3-17 RED,MT,BASF-SE,Sea,Container Ship,4.2,13705,80,1.521569,0.00956,0.11,0.714, 588.33 
+JO-17019,28-05-17,Jebel Ali,Jebel Ali,Dammam,Jeddah,Solvents,Methoxy Propanol,MT,PETROCHEM ,Sea,Container Ship,15.2,2037,1250,5.506631,0.00956,0.11,0.714," 2,389.93 "
+KO-17031,30-05-17,Germany,Hamburg,Dammam,Dammam,Polymers & Resins,DESMODUR N 75 MPA/X,MT,COVESTRO ,Sea,Container Ship,7.74,13705,0,2.804034,0.00956,0.11,0.714," 1,016.10 "
+KO-17031,30-05-17,Germany,Hamburg,Dammam,Dammam,Polymers & Resins,DESMODUR L 75,MT,COVESTRO ,Sea,Container Ship,3.6,13705,0,1.304202,0.00956,0.11,0.714, 472.60 
+KO-17031,30-05-17,Germany,Hamburg,Dammam,Dammam,Polymers & Resins,DESMODUR IL 1351 BA,MT,COVESTRO ,Sea,Container Ship,3.44,13705,0,1.246237,0.00956,0.11,0.714, 451.60 
+KO-17031,30-05-17,Germany,Hamburg,Dammam,Dammam,Polymers & Resins,DESMODUR N 3390 BA/SN,MT,COVESTRO ,Sea,Container Ship,1.8,13705,0,0.652101,0.00956,0.11,0.714, 236.30 
+KO-17031,30-05-17,Germany,Hamburg,Dammam,Dammam,Polymers & Resins,DESMOCOLL 621/1,MT,COVESTRO ,Sea,Container Ship,1.5,13705,0,0.543417,0.00956,0.11,0.714, 196.92 
+DO-17019,30-05-17,China,Shanghai,Jebel Ali,Jebel Ali,Food & Feed Chemicals,TAURINE,MT,Vega Group. CHINA,Sea,Bulk Carrier,16,12964,0,5.796453,0.00795,0.11,0.714," 1,653.16 "
+JO-17020,30-05-17,South Korea,Busan,Dammam,Jeddah,Polymers & Resins,DI BUTYL PHTHALATE DBP,MT,YOUNG'S CORPORATION,Sea,Container Ship,19.2,15186,1250,6.955744,0.00956,0.11,0.714," 5,432.39 "
+KO-17032,04-06-17,France,Marseille,Dammam,Dammam,Disinfectants & Biocides,HYDROGENE PEROXIDE 35% (VALSTERANE 35 S,MT ,ARKEMA ,Sea,Container Ship,35.1,10742,0,12.715969,0.00956,0.11,0.714," 3,613.62 "
+DO-17021,04-06-17,United States,Houston,Jebel Ali,Jebel Ali,Adsorbents & Desiccants,Selexsorb CD 7X14,MT,BASF-SE,Sea,Container Ship,5.443312,20187,0,1.971994,0.00956,0.11,0.714," 1,051.90 "
+DO-17021,04-06-17,Germany,Hamburg,Jebel Ali,Jebel Ali,Adsorbents & Desiccants,"F-200 1/8""",MT,BASF-SE,Sea,Container Ship,4.08236,14446,0,1.478951,0.00956,0.11,0.714, 564.85 
+DO-17021,04-06-17,United States,Houston,Jebel Ali,Jebel Ali,Adsorbents & Desiccants,SELEXSORB COS 7X14,MT,BASF-SE,Sea,Container Ship,2.7216,20187,0,0.985977,0.00956,0.11,0.714, 525.94 
+DO-17020,04-06-17,China,Shanghai,Jebel Ali,Jebel Ali,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,YUE XIU TEXTILES CO.，LTD,Sea,Bulk Carrier,999,12964,0,361.916045,0.00795,0.11,0.714," 103,219.14 "
+KO-17033,04-06-17,India,Nhava Sheva,Dammam,Ras Tanura,Adsorbents & Desiccants,Activated Carbon Size: 8*30(Mesh,MT ,,Sea,Container Ship,15,4260,75,5.434175,0.00956,0.11,0.714, 738.51 
+KO-17034,06-06-17,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,F-24X CLAY,MT,BASF-SE,Sea,Container Ship,12,19446,80,4.34734,0.00956,0.11,0.714," 2,339.55 "
+DO-17023,07-06-17,China,Shanghai,Jebel Ali,Jebel Ali,Food & Feed Chemicals,XANTHAN GUM 200 MESH FOOD GRADE,MT ,MEIHUA GROUP ,Sea,Bulk Carrier,17,12964,0,6.158731,0.00795,0.11,0.714," 1,756.48 "
+DO-17022,07-06-17,Turkey,Mersin,Jebel Ali,Jebel Ali,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,153.9,6667,0,55.754634,0.00956,0.11,0.714," 9,848.86 "
+RO-17020,07-06-17,Turkey,Mersin,Dammam,Riyadh,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,312,5556,400,113.030837,0.00956,0.11,0.714," 30,380.70 "
+RO-17021,08-06-17,France,Marseille,Jeddah,Riyadh,Polymers & Resins,PVC STABILIZER FOR OIL RESISTANT,MT,OMNOVA SOLUTION-FRANCE,Sea,Container Ship,20,9445,950,7.245566,0.00956,0.11,0.714," 3,901.06 "
+JO-17021,08-06-17,Germany,Hamburg,Dammam,Jeddah,Adsorbents & Desiccants,F-25X CLAY,MT,BASF SE,Sea,Container Ship,10,13705,1250,3.622783,0.00956,0.11,0.714," 2,687.78 "
+DO-17024,12-06-17,France,Antwerp,Jebel Ali,Jebel Ali,Surfactants,"ELTESOL SC40 QTY., 40-DRUMS USD 895 /MT",MT ,Innospec Performance Chemicals Belgium,Sea,Container Ship,9.6,14446,0,3.477872,0.00956,0.11,0.714," 1,328.28 "
+DO-17024,12-06-17,France,Antwerp,Jebel Ali,Jebel Ali,Surfactants,"EMPIGEN BB QTY., 20-DRUMS USD 1345/ MT",MT ,Innospec Performance Chemicals Belgium,Sea,Container Ship,4.4,14446,0,1.594025,0.00956,0.11,0.714, 608.79 
+DO-17024,12-06-17,France,Antwerp,Jebel Ali,Jebel Ali,Surfactants,"EMPIGEN OB QTY., 20-DRUMS USD 1310/MT",MT ,Innospec Performance Chemicals Belgium,Sea,Container Ship,4,14446,0,1.449113,0.00956,0.11,0.714, 553.45 
+KO-17035,14-06-17,South Africa,Durban,Dammam,Dammam,Solvents,ETHANOL 99.9/DB,MT,SASOL,Sea,Container Ship,105.6,10742,0,38.256591,0.00956,0.11,0.714," 10,871.75 "
+JO-17023,14-06-17,Germany,Hamburg,Jeddah,Jeddah,Inorganic Salts,BUDALNa 324 Trisodium Phosphate Anhydrous,MT,BUDENHEIM ,Sea,Container Ship,20,12779,0,7.245566,0.00956,0.11,0.714," 2,448.52 "
+RO-17022,14-06-17,South Africa,Durban,Dammam,Riyadh,Solvents,ETHANOL 99.9/DB,MT,SASOL,Sea,Container Ship,52.8,10742,400,19.128295,0.00956,0.11,0.714," 7,759.08 "
+JO-17022,14-06-17,South Africa,Durban,Dammam,Jeddah,Solvents,ETHANOL 99.9/DB,MT,SASOL,Sea,Container Ship,105.6,10742,1250,38.256591,0.00956,0.11,0.714," 25,391.75 "
+JO-17024,19-06-17,Jubail,Jubail,Jeddah,Jeddah,Inorganic Acids,HCl 31%-33%,MT,JANA ,Road,Road Truck,50,1300,0,18.113916,0.11,0.11,0.714," 7,162.93 "
+RO-17023,19-06-17,South Africa,Durban,Dammam,Riyadh,Solvents,ISO PROPYLAL TG/B,MT,SASOL,Sea,Container Ship,25.6,10742,400,9.274325,0.00956,0.11,0.714," 3,761.98 "
+JO-17025,20-06-17,Germany,Hamburg,Dammam,Jeddah,Adsorbents & Desiccants,PURISTAR R3-12 T5X3,MT ,BASF SE,Sea,Container Ship,12.74,13705,1250,4.615426,0.00956,0.11,0.714," 3,424.24 "
+JO-17026,21-06-17,Jubail,Jubail,Jeddah,Jeddah,Alkalis & Bases,AMMONIA 25%,MT,NAWAH CHEMICALS FACTORY ,Road,Road Truck,10,1300,0,3.622783,0.11,0.11,0.714," 1,432.59 "
+DO-17026,21-06-17,United States,New York,Abu Dhabi,Jebel Ali,Food & Feed Chemicals,COPPER PROTEINATE 15%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,3,19631,140,1.086835,0.00956,0.11,0.714, 609.99 
+DO-17025,21-06-17,United States,Houston,Abu Dhabi,Jebel Ali,Food & Feed Chemicals,ETHYLENEDIAMINE DIHYDRIODIDE (EDDI,MT,"Agri Products, Inc.    ",Sea,Container Ship,0.1,20002,140,0.036228,0.00956,0.11,0.714, 20.69 
+DO-17027,12-07-17,China,Guangzhou,Jebel Ali,Jebel Ali,Food & Feed Chemicals,DEXTROSE MONOHYDRATE,MT,QINGYUAN FOODSTUFF CO LTD,Sea,Bulk Carrier,324,12964,0,117.378177,0.00795,0.11,0.714," 33,476.48 "
+JO-17027,17-07-17,France,Marseille,Jeddah,Jeddah,Surfactants,EMPIGEN BS/FA,MT,Innospec Performance Chemicals ,Sea,Container Ship,17.6,9445,0,6.376098,0.00956,0.11,0.714," 1,593.73 "
+DO-17029,24-07-17,France,Antwerp,Jebel Ali,Jebel Ali,Surfactants,NANSA HS85/S,MT ,Innospec Performance Chemicals Belgium,Sea,Container Ship,8,14446,0,2.898227,0.00956,0.11,0.714," 1,106.90 "
+DO-17029,24-07-17,France,Antwerp,Jebel Ali,Jebel Ali,Surfactants,EMPILAN KR6,MT ,Innospec Performance Chemicals Belgium,Sea,Container Ship,1.44,14446,0,0.521681,0.00956,0.11,0.714, 199.24 
+DO-17030,25-07-17,France,Antwerp,Jebel Ali,Jebel Ali,Surfactants,EMPICOL LX 28/U,MT ,Innospec Performance Chemicals Belgium,Sea,Container Ship,8.8,14446,0,3.188049,0.00956,0.11,0.714," 1,217.59 "
+DO-17030,25-07-17,France,Antwerp,Jebel Ali,Jebel Ali,Surfactants,EMPILAN 2502,MT ,Innospec Performance Chemicals Belgium,Sea,Container Ship,4,14446,0,1.449113,0.00956,0.11,0.714, 553.45 
+DO-17030,25-07-17,France,Antwerp,Jebel Ali,Jebel Ali,Surfactants,EMPIPEARL XA400/X,MT ,Innospec Performance Chemicals Belgium,Sea,Container Ship,4,14446,0,1.449113,0.00956,0.11,0.714, 553.45 
+DO-17031,26-07-17,United States,Houston,Abu Dhabi,Jebel Ali,Food & Feed Chemicals,COPPER TRIBASIC CHLORIDE,MT,"Agri Products, Inc.    ",Sea,Container Ship,1,20002,140,0.362278,0.00956,0.11,0.714, 206.88 
+DO-17031,26-07-17,United States,Houston,Abu Dhabi,Jebel Ali,Food & Feed Chemicals,ETHYLENEDIAMINE DIHYDRIODIDE (EDDI,MT,"Agri Products, Inc.    ",Sea,Container Ship,0.1,20002,140,0.036228,0.00956,0.11,0.714, 20.69 
+KO-17037,27-07-17,Turkey,Mersin,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,Alkim Alkali Kimya Anonium Sirketi,Sea,Container Ship,9000,5556,0,3260.504911,0.00956,0.11,0.714," 480,366.24 "
+DO-17032,27-07-17,China,Shanghai,Jebel Ali,Jebel Ali,Food & Feed Chemicals,TAURINE,MT,"Qianjiang Yongan Pharmaceutical Co., Ltd Wuhan ",Sea,Bulk Carrier,23,12964,0,8.332401,0.00795,0.11,0.714," 2,376.42 "
+KO-17038-A,02-08-17,Germany,Hamburg,Dammam,Jubail,Catalysts,ABS 3/8”,MT,BASF-SE,Sea,Container Ship,6.35,13705,80,2.300467,0.00956,0.11,0.714, 889.50 
+KO-17041,08-08-17,India,Nhava Sheva,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,GRASIM INDUSTRIES LTD,Sea,Container Ship,5000,4260,0,1811.391617,0.00956,0.11,0.714," 204,921.33 "
+KO-17038,10-08-17,China,Zhenjiang,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE (dry mix grade) 99 PCT MIN,MT,"SHANGHAI LAHORE INTERNATIONAL TRADING CO,LIMITED",Sea,Bulk Carrier,15000,14631,0,5434.174852,0.00795,0.11,0.714," 1,748,626.75 "
+KO-17039-R,13-08-17,China,Shanghai,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,"YUE XIU TEXTILES CO.,LTD",Sea,Bulk Carrier,2000,14816,0,724.556647,0.00795,0.11,0.714," 236,091.73 "
+DO-17033,13-08-17,Germany,Hamburg,Jebel Ali,Jebel Ali,Adsorbents & Desiccants,F-200 1/8”,MT,BASF-SE,Sea,Container Ship,4.76,14446,0,1.724445,0.00956,0.11,0.714, 658.61 
+DO-17033,13-08-17,Germany,Hamburg,Jebel Ali,Jebel Ali,Adsorbents & Desiccants,F-200 3/16”,MT,BASF-SE,Sea,Container Ship,4.08,14446,0,1.478096,0.00956,0.11,0.714, 564.52 
+JO-17032,13-08-17,Germany,Hamburg,Dammam,Jeddah,Adsorbents & Desiccants,PURISTAR R3-12 T5X3,MT ,BASF SE,Sea,Container Ship,12.74,13705,1250,4.615426,0.00956,0.11,0.714," 3,424.24 "
+JO-17031,14-08-17,United States,Los Angeles,Dammam,Jeddah,Inorganic Salts,BORAX PANTA HYDRATE,MT,Searles Valley,Sea,Container Ship,139.65,23706,1250,50.592168,0.00956,0.11,0.714," 50,886.79 "
+DO-17042,16-08-17,Spain,Valencia,Abu Dhabi,Jebel Ali,Specialty Chemicals,CAPSOQUIN N,MT,INDUSTRIAL TECNICA PECUARIA S.A.,Sea,Container Ship,3,11482,140,1.086835,0.00956,0.11,0.714, 376.28 
+DO-17027-A,16-08-17,Spain,Valencia,Abu Dhabi,Jebel Ali,Specialty Chemicals,CAPSOQUIN N,MT,INDUSTRIAL TECNICA PECUARIA S.A.,Sea,Container Ship,3,11482,140,1.086835,0.00956,0.11,0.714, 376.28 
+DO-17034,21-08-17,Turkey,Mersin,Jebel Ali,Jebel Ali,Inorganic Salts,SODA ASH LIGHT,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,608,6667,0,220.265221,0.00956,0.11,0.714," 38,909.07 "
+DO-17035,30-08-17,Germany,Hamburg,Abu Dhabi,Jebel Ali,Inorganic Salts,POTASSIUM CHLORIDE FEED GRADE,MT,KALI,Sea,Container Ship,24,14260,140,8.69468,0.00956,0.11,0.714," 3,647.62 "
+RO-17026,30-08-17,Turkey,Mersin,Dammam,Riyadh,Inorganic Salts,SODA ASH LIGHT,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,202.5,5556,400,73.361361,0.00956,0.11,0.714," 19,718.24 "
+DO-17036,06-09-17,France,Antwerp,Jebel Ali,Jebel Ali,Surfactants,EMPIGEN OB,MT,Innospec Performance Chemicals Belgium,Sea,Container Ship,8,14446,0,2.898227,0.00956,0.11,0.714," 1,106.90 "
+DO-17036,06-09-17,France,Antwerp,Jebel Ali,Jebel Ali,Surfactants,ELTESOL SX93,MT,Innospec Performance Chemicals Belgium,Sea,Container Ship,3.75,14446,0,1.358544,0.00956,0.11,0.714, 518.86 
+DO-17037,06-09-17,Netherlands,Rotterdam,Dubai,Jebel Ali,Adsorbents & Desiccants,SILICAGEL PEARL ORANGE (Sorbead Orange WS 2050,MT,CALDIC,Air,Air Freighter,0.05,5860,35,0.018114,1.13,0.11,0.714, 331.30 
+DO-17039,06-09-17,United States,Houston,Abu Dhabi,Jebel Ali,Food & Feed Chemicals,COPPER TRIBASIC CHLORIDE,MT,"Agri Products, Inc.    ",Sea,Container Ship,2,20002,140,0.724557,0.00956,0.11,0.714, 413.76 
+KO-17040-R,07-09-17,India,Mundra,Dammam,Dammam,Inorganic Salts,REFINED SALT,MT,Kutch Brine Chem Industries,Sea,Container Ship,780,4074,0,282.577092,0.00956,0.11,0.714," 30,580.76 "
+KO-17040,07-09-17,India,Mundra,Dammam,Dammam,Inorganic Salts,REFINED SALT,MT,Kutch Brine Chem Industries,Sea,Container Ship,720,4074,0,260.840393,0.00956,0.11,0.714," 28,228.40 "
+DO-17040,07-09-17,China,Guangzhou,Jebel Ali,Jebel Ali,Food & Feed Chemicals,DEXTROSE MONOHYDRATE,MT,QINGYUAN FOODSTUFF CO LTD,Sea,Bulk Carrier,324,12964,0,117.378177,0.00795,0.11,0.714," 33,476.48 "
+DO-17041,17-09-17,Georgia,Poti,Abu Dhabi,Jebel Ali,Metal Oxides & Pigments,MANGANESE OXIDE 60-62%,MT,Mn CHEMICAL ,Sea,Container Ship,10,8334,140,3.622783,0.00956,0.11,0.714, 953.32 
+JO-17030,17-09-17,France,Marseille,Dammam,Jeddah,Surfactants,EMPICOL LXV/N,MT,Innospec Performance Chemicals ,Sea,Container Ship,10,10742,1250,3.622783,0.00956,0.11,0.714," 2,404.52 "
+KO-17042,25-09-17,China,Zhenjiang,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS 99 PCT MIN,MT,"(XISHUANGBANNA CINYDA COMMERCE CO.,LTD.)SICHUAN UNION XINLI CO. LTD.-CHINA.",Sea,Bulk Carrier,15000,14631,0,5434.174852,0.00795,0.11,0.714," 1,748,626.75 "
+KO-17043,28-09-17,United States,Houston,Dammam,Jubail,Adsorbents & Desiccants,SELEXSORB CD 7X14,MT,BASF-SE,Sea,Container Ship,40.83,19446,80,14.791824,0.00956,0.11,0.714," 7,960.32 "
+KO-17043,28-09-17,United States,Houston,Dammam,Jubail,Catalysts,T162 (1/2”,MT,BASF-SE,Sea,Container Ship,14,19446,80,5.071897,0.00956,0.11,0.714," 2,729.47 "
+DO-17045,09-10-17,United States,New York,Jebel Ali,Jebel Ali,Food & Feed Chemicals,CHOLINE CHLORIDE 70%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,19.125,20187,0,6.928573,0.00956,0.11,0.714," 3,695.84 "
+DO-17044,09-10-17,Germany,Hamburg,Jebel Ali,Jebel Ali,Solvents,HEAVY LIQUID PARAFFIN PH. EUR./USP PIONIER 2071,MT,Hansen & Rosenthal KG,Sea,Container Ship,28,14446,0,10.143793,0.00956,0.11,0.714," 3,874.15 "
+DO-17043,09-10-17,Turkey,Mersin,Jebel Ali,Jebel Ali,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,307.8,6667,0,111.509268,0.00956,0.11,0.714," 19,697.72 "
+KO-17046,10-10-17,China,Zhenjiang,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE (dry mix grade) 99 PCT MIN,MT,"SHANGHAI LAHORE INTERNATIONAL TRADING CO,LIMITED",Sea,Bulk Carrier,10000,14631,0,3622.783235,0.00795,0.11,0.714," 1,165,751.17 "
+KO-17045,10-10-17,China,Zhenjiang,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE (dry mix grade) 99 PCT MIN,MT,"SHANGHAI LAHORE INTERNATIONAL TRADING CO,LIMITED",Sea,Bulk Carrier,10000,14631,0,3622.783235,0.00795,0.11,0.714," 1,165,751.17 "
+KO-17044,10-10-17,India,Mundra,Dammam,Dammam,Inorganic Salts,REFINED SALT,MT,Kutch Brine Chem Industries,Sea,Container Ship,10000.8,4074,0,3623.073057,0.00956,0.11,0.714," 392,092.43 "
+DO-17046,12-10-17,France,Antwerp,Jebel Ali,Jebel Ali,Surfactants,ELTESOL SX93,MT,Innospec Performance Chemicals Belgium,Sea,Container Ship,7.5,14446,0,2.717087,0.00956,0.11,0.714," 1,037.72 "
+DO-17049,15-10-17,Greece,Piraeus,Abu Dhabi,Jebel Ali,Metal Oxides & Pigments,ZINC OXIDE 72% FEED GRADE,MT,PIRAIKI GREECE,Sea,Container Ship,5,7593,140,1.811392,0.00956,0.11,0.714, 441.24 
+DO-17048,15-10-17,United States,New York,Abu Dhabi,Jebel Ali,Food & Feed Chemicals,MANGANESE PROTEINATE 15%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,10,19631,140,3.622783,0.00956,0.11,0.714," 2,033.31 "
+DO-17047,15-10-17,United States,Houston,Abu Dhabi,Jebel Ali,Food & Feed Chemicals,ETHYLENEDIAMINE DIHYDRIODIDE (EDDI,MT,"Agri Products, Inc.    ",Sea,Container Ship,0.2,20002,140,0.072456,0.00956,0.11,0.714, 41.38 
+JO-17033,17-10-17,Jubail,Jubail,Jeddah,Jeddah,Alkalis & Bases,AMMONIA 25%,MT,NAWAH CHEMICALS FACTORY ,Road,Road Truck,10,1300,0,3.622783,0.11,0.11,0.714," 1,432.59 "
+KO-17047,17-10-17,United States,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,F-25X CLAY,MT,EP MINERALS EUROPE GMBH AND CO KG,Sea,Container Ship,19,13705,80,6.883288,0.00956,0.11,0.714," 2,661.49 "
+JO-17034,23-10-17,China,Shanghai,Dammam,Jeddah,Inorganic Salts,AMMONIUM BICARBONATE (FOOD GRADE,MT ,NORBRIGHT,Sea,Bulk Carrier,312,14816,1250,113.030837,0.00795,0.11,0.714," 79,730.31 "
+KO-17048,29-10-17,France,Marseille,Dammam,Jeddah,Disinfectants & Biocides,HYDROGENE PEROXIDE 35% (VALSTERANE 35 AL4,MT ,ARKEMA ,Sea,Container Ship,35.1,10742,1250,12.715969,0.00956,0.11,0.714," 8,439.87 "
+MO-17003,31-10-17,India,Mundra,Dammam,Jeddah,Specialty Chemicals,MONOCHLORO DIFLUOROMETHANE -R22,MT,GUJARAT FLOROCHEMICALS LIMITED INDIA,Sea,Container Ship,97.92,4074,1250,35.474293,0.00956,0.11,0.714," 17,303.06 "
+KO-17049,02-11-17,United States,Houston,Dammam,Riyadh,Catalysts,RE3-15 CU-ZN OXIDE CATALYST 5X3MM TABLTS,MT,RESERCH CATALYSTS INC ,Air,Air Freighter,0.14,12100,400,0.050719,1.13,0.11,0.714," 1,920.42 "
+MO-17004,06-11-17,India,Nhava Sheva,Dammam,Riyadh,Specialty Chemicals,MONOCHLORO DIFLUOROMETHANE -R22,MT,SRF LIMITED INDIA,Sea,Container Ship,62.016,4260,400,22.467053,0.00956,0.11,0.714," 5,270.38 "
+JO-17035,07-11-17,France,Marseille,Dammam,Jeddah,Surfactants,EMPIGEN BS/FA,MT ,Innospec Performance Chemicals ,Sea,Container Ship,17.6,10742,1250,6.376098,0.00956,0.11,0.714," 4,231.96 "
+KO-17050,13-11-17,India,Nhava Sheva,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,GRASIM INDUSTRIES LTD,Sea,Container Ship,2000,4260,0,724.556647,0.00956,0.11,0.714," 81,968.53 "
+DO-17050,14-11-17,China,Guangzhou,Jebel Ali,Jebel Ali,Food & Feed Chemicals,DEXTROSE MONOHYDRATE,MT,QINGYUAN FOODSTUFF CO LTD,Sea,Bulk Carrier,162,12964,0,58.689088,0.00795,0.11,0.714," 16,738.24 "
+KO-17051,19-11-17,Germany,Hamburg,Dammam,Jubail,Catalysts,Catalyst; Titanium Dioxide (Ti1100e,MT,BASF-SE,Sea,Container Ship,178,13705,80,64.485542,0.00956,0.11,0.714," 24,933.97 "
+KO-17052,20-11-17,Turkey,Mersin,Dammam,Dammam,Inorganic Salts,SODIUM SULPHATE ANHYDROUS,MT,Alkim Alkali Kimya Anonium Sirketi,Sea,Container Ship,5000,5556,0,1811.391617,0.00956,0.11,0.714," 266,870.13 "
+KO-17053,22-11-17,United States,Hamburg,Dammam,Jubail,Adsorbents & Desiccants,F-25X CLAY,MT,EP MINERALS EUROPE GMBH AND CO KG,Sea,Container Ship,10,13705,80,3.622783,0.00956,0.11,0.714," 1,400.78 "
+DO-17055,23-11-17,Germany,Hamburg,Abu Dhabi,Jebel Ali,Inorganic Salts,POTASSIUM CHLORIDE FEED GRADE,MT,KALI,Sea,Container Ship,24,14260,140,8.69468,0.00956,0.11,0.714," 3,647.62 "
+DO-17054,23-11-17,Greece,Piraeus,Abu Dhabi,Jebel Ali,Metal Oxides & Pigments,ZINC OXIDE 72% FEED GRADE,MT,PIRAIKI GREECE,Sea,Container Ship,10,7593,140,3.622783,0.00956,0.11,0.714, 882.48 
+DO-17053,23-11-17,United States,New York,Abu Dhabi,Jebel Ali,Food & Feed Chemicals,MANGANESE PROTEINATE 15%,MT,BALCHEM ANIMAL NUTRITION & HEALTH,Sea,Container Ship,10,19631,140,3.622783,0.00956,0.11,0.714," 2,033.31 "
+DO-17052,23-11-17,United States,Houston,Abu Dhabi,Jebel Ali,Food & Feed Chemicals,COPPER TRIBASIC CHLORIDE,MT,"Agri Products, Inc.    ",Sea,Container Ship,2,20002,140,0.724557,0.00956,0.11,0.714, 413.76 
+DO-17051,23-11-17,Turkey,Mersin,Abu Dhabi,Jebel Ali,Metal Oxides & Pigments,Magnesium Oxide 50%,MT,Aldeon Kimya Sanayi ve Ticaret Limited Şirketi,Sea,Container Ship,10,6297,140,3.622783,0.00956,0.11,0.714, 758.58 
+RO-17027,26-11-17,France,Marseille,Jeddah,Riyadh,Polymers & Resins,CHEMIGUM P83,MT,OMNOVA SOLUTION-FRANCE,Sea,Container Ship,20,9445,950,7.245566,0.00956,0.11,0.714," 3,901.06 "
+DO-17056,27-11-17,Netherlands,Rotterdam,Jebel Ali,Jebel Ali,Chelating Agents,DISSOLVINE NA,MT,AKZONOBEL ,Sea,Container Ship,23.75,14631,0,8.60411,0.00956,0.11,0.714," 3,328.11 "
+KO-17054,07-12-17,South Korea,Busan,Dammam,Dammam,Alkalis & Bases,POTASSIUM HYDROXIDE 90% min (FLAKE type,MT,"MIRAE C.M.T.,LTD",Sea,Container Ship,10,15186,0,3.622783,0.00956,0.11,0.714," 1,454.37 "
+RO-17028,07-12-17,South Korea,Busan,Dammam,Riyadh,Alkalis & Bases,POTASSIUM HYDROXIDE 90% min (FLAKE type,MT,"MIRAE C.M.T.,LTD",Sea,Container Ship,20,15186,400,7.245566,0.00956,0.11,0.714," 3,788.74 "
+JO-17036,07-12-17,South Korea,Busan,Dammam,Jeddah,Alkalis & Bases,POTASSIUM HYDROXIDE 90% min (FLAKE type,MT,"MIRAE C.M.T.,LTD",Sea,Container Ship,10,15186,1250,3.622783,0.00956,0.11,0.714," 2,829.37 "
+KO-17055,12-12-17,China,Qingdao,Dammam,Dammam,Organic Acids,CITRIC ACID ANHYDROUS BP98 MESH SIZE: 30-100,MT,"WEIFANG ENSIGN INDUSTRY CO., LTD.",Sea,Bulk Carrier,44,15001,0,15.940246,0.00795,0.11,0.714," 5,258.73 "
+DO-17060,12-12-17,China,Qingdao,Jebel Ali,Jebel Ali,Organic Acids,CITRIC ACID ANHYDROUS BP98 MESH SIZE: 30-100,MT,"WEIFANG ENSIGN INDUSTRY CO., LTD.",Sea,Bulk Carrier,44,13149,0,15.940246,0.00795,0.11,0.714," 4,610.90 "
+DO-17059,12-12-17,China,Shanghai,Jebel Ali,Jebel Ali,Organic Acids,CITRIC ACID ANHYDROUS BP2011 MESH SIZE: 30-100,MT,TTCA CHINA,Sea,Bulk Carrier,66,12964,0,23.910369,0.00795,0.11,0.714," 6,819.28 "
+DO-17058,12-12-17,China,Qingdao,Jebel Ali,Jebel Ali,Organic Acids,CITRIC ACID ANHYDROUS BP98 MESH SIZE: 30-100,MT,"WEIFANG ENSIGN INDUSTRY CO., LTD.",Sea,Bulk Carrier,66,13149,0,23.910369,0.00795,0.11,0.714," 6,916.35 "
+DO-17057,12-12-17,Germany,Hamburg,Jebel Ali,Jebel Ali,Surfactants,WILFARET KB10,MT,BRENNTAG EXPORT ,Sea,Container Ship,194.88,14446,0,70.6008,0.00956,0.11,0.714," 26,964.07 "
+JO-17037,12-12-17,China,Qingdao,Jebel Ali,Jeddah,Organic Acids,CITRIC ACID ANHYDROUS BP98 MESH SIZE: 30-100,MT,"WEIFANG ENSIGN INDUSTRY CO., LTD.",Sea,Bulk Carrier,44,13149,1750,15.940246,0.00795,0.01242,0.714," 5,567.24 "
+JO-17038,13-12-17,Germany,Hamburg,Dammam,Jeddah,Inorganic Acids,NITRIC ACID 63% FOOD GRADE,MT ,BRANNTAG,Sea,Container Ship,39.168,13705,1250,14.189717,0.00956,0.11,0.714," 10,527.51 "
+RO-17030,17-12-17,Turkey,Mersin,Dammam,Riyadh,Inorganic Salts,SODIUM BICARBONATE 99.3% FOOD GRADE,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,312,5556,400,113.030837,0.00956,0.11,0.714," 30,380.70 "
+RO-17031,18-12-17,Turkey,Mersin,Dammam,Riyadh,Inorganic Salts,SODA ASH LIGHT,MT,EL FIL INTERNATIONAL SAL OFFSHORE,Sea,Container Ship,22,5556,400,7.970123,0.00956,0.11,0.714," 2,142.23 "
+RO-17032,19-12-17,Germany,Hamburg,Dammam,Riyadh,Inorganic Acids,NITRIC ACID 63%,MT,BRANNTAG,Sea,Container Ship,25.024,13705,400,9.065653,0.00956,0.11,0.714," 4,386.17 "
+JO-17039,20-12-17,Dammam,Dammam,Jeddah,Jeddah,Specialty Chemicals,COBALT OCTOATE 10%,MT,REDA chemical ,Road,Road Truck,0.6,1250,0,0.217367,0.11,0.11,0.714, 82.66 
